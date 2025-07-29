@@ -1,0 +1,104 @@
+{
+    "type": "DefineSprite",
+    "id": 48,
+    "frameCount": 9,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 39,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 40
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 41
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 42
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 43
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 44
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 45
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 46
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 47
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

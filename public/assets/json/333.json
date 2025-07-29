@@ -1,0 +1,158 @@
+{
+    "type": "DefineSprite",
+    "id": 333,
+    "frameCount": 15,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 318,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 319
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 320
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 321
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 322
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 323
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 324
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 325
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 326
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 327
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 328
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 329
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 330
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 331
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 332
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

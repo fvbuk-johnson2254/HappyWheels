@@ -1,0 +1,89 @@
+{
+    "type": "DefineShape",
+    "id": 3045,
+    "bounds": {
+        "xMin": -40,
+        "xMax": 40,
+        "yMin": -1665,
+        "yMax": 1663
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 0,
+                    "y": -1665
+                },
+                "leftFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -40,
+                    "y": 1206
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 16,
+                    "y": 2108
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 11,
+                    "y": 16
+                },
+                "delta": {
+                    "x": 24,
+                    "y": 14
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 11,
+                    "y": -1
+                },
+                "delta": {
+                    "x": 24,
+                    "y": -14
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 16,
+                    "y": -2108
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -40,
+                    "y": -1206
+                }
+            }
+        ]
+    }
+}

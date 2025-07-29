@@ -1,0 +1,47 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "outDir": "to-build",
+        "target": "ES6",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "downlevelIteration": true,
+        "sourceMap": false,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleDetection": "force",
+        "resolveJsonModule": true,
+        "lib": [
+            "es6"
+        ],
+        "baseUrl": ".",
+        "paths": {
+            "flash": [
+                "./node_modules/openfl/lib/openfl"
+            ],
+            "flash/*": [
+                "./node_modules/openfl/lib/openfl/*"
+            ],
+            "@": [
+                "./src"
+            ],
+            "@/*": [
+                "./src/*"
+            ],
+            "@assets": [
+                "./public/assets"
+            ],
+            "@assets/*": [
+                "./public/assets/*"
+            ]
+        }
+    },
+    "files": [
+        "src/global.d.ts",
+        "src/global.ts",
+        "src/app.ts"
+    ],
+    "include": [
+        "src/**/*"
+    ]
+}

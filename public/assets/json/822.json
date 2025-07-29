@@ -1,0 +1,124 @@
+{
+    "type": "DefineSprite",
+    "id": 822,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 818,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 388,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "box"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 390,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 40,
+                "translateY": 40
+            },
+            "name": "check"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 6,
+            "characterId": 820,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 40,
+                "translateY": 40
+            },
+            "name": "dash"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 8,
+            "characterId": 821,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 500,
+                "translateY": 60
+            },
+            "name": "labelText"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

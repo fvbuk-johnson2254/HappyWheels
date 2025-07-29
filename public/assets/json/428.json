@@ -1,0 +1,78 @@
+{
+    "type": "DefineSprite",
+    "id": 428,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 414,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1804,
+                "translateY": -5437
+            },
+            "name": "arm"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 415,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 427,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65498
+                },
+                "scaleY": {
+                    "epsilons": 65498
+                },
+                "rotateSkew0": {
+                    "epsilons": 1
+                },
+                "rotateSkew1": {
+                    "epsilons": -1
+                },
+                "translateX": -1217,
+                "translateY": -5032
+            },
+            "name": "head"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

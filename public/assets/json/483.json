@@ -1,0 +1,250 @@
+{
+    "type": "DefineShape",
+    "id": 483,
+    "bounds": {
+        "xMin": 11380,
+        "xMax": 13820,
+        "yMin": 260,
+        "yMax": 1700
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": [
+                {
+                    "width": 20,
+                    "startCap": 0,
+                    "endCap": 0,
+                    "join": {
+                        "type": 2
+                    },
+                    "noHScale": false,
+                    "noVScale": false,
+                    "noClose": false,
+                    "pixelHinting": false,
+                    "fill": {
+                        "type": 4,
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 255
+                        }
+                    }
+                }
+            ]
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 13620,
+                    "y": 1520
+                },
+                "lineStyle": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -200,
+                    "y": 0
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 13620,
+                    "y": 1520
+                },
+                "leftFill": 1,
+                "lineStyle": 0
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 200,
+                    "y": -100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -200,
+                    "y": -100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 100
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 12600,
+                    "y": 460
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 100,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -100,
+                    "y": -200
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -100,
+                    "y": 200
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 100,
+                    "y": 0
+                }
+            },
+            {
+                "type": 1,
+                "leftFill": 0,
+                "lineStyle": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 200
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 11580,
+                    "y": 1520
+                },
+                "rightFill": 1,
+                "lineStyle": 0
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -200,
+                    "y": -100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 200,
+                    "y": -100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 100
+                }
+            },
+            {
+                "type": 1,
+                "rightFill": 0,
+                "lineStyle": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 200,
+                    "y": 0
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 12600,
+                    "y": 1500
+                },
+                "rightFill": 1,
+                "lineStyle": 0
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 100,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -100,
+                    "y": 200
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -100,
+                    "y": -200
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 100,
+                    "y": 0
+                }
+            },
+            {
+                "type": 1,
+                "rightFill": 0,
+                "lineStyle": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -200
+                }
+            }
+        ]
+    }
+}

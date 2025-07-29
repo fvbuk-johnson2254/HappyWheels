@@ -1,0 +1,194 @@
+{
+    "type": "DefineSprite",
+    "id": 131,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 106,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 15710,
+                "translateY": 8942
+            },
+            "name": "leftKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 109,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 12815,
+                "translateY": 8942
+            },
+            "name": "spaceKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 6,
+            "characterId": 111,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 17405,
+                "translateY": 8942
+            },
+            "name": "rightKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 9,
+            "characterId": 113,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 16565,
+                "translateY": 8252
+            },
+            "name": "upKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 12,
+            "characterId": 115,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 16565,
+                "translateY": 8942
+            },
+            "name": "downKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 15,
+            "characterId": 121,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 8082,
+                "translateY": 8252
+            },
+            "name": "shiftKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 18,
+            "characterId": 126,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 7758,
+                "translateY": 8942
+            },
+            "name": "ctrlKey"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 21,
+            "characterId": 130,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 49152
+                },
+                "scaleY": {
+                    "epsilons": 49152
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 9625,
+                "translateY": 8252
+            },
+            "name": "zKey"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

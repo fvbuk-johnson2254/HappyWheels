@@ -1,0 +1,89 @@
+{
+    "type": "DefineShape",
+    "id": 797,
+    "bounds": {
+        "xMin": -123,
+        "xMax": 124,
+        "yMin": -124,
+        "yMax": 123
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 124,
+                    "y": -82
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -184,
+                    "y": 184
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -24,
+                    "y": -3
+                },
+                "delta": {
+                    "x": -49,
+                    "y": 21
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -14,
+                    "y": -14
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 24,
+                    "y": -21
+                },
+                "delta": {
+                    "x": 21,
+                    "y": -49
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 184,
+                    "y": -184
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 42,
+                    "y": 42
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "type": "DefineSprite",
+    "id": 3142,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 3118,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 13999,
+                "translateY": 15500
+            },
+            "name": "b1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 3124,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 2100,
+                "translateY": 5000
+            },
+            "name": "b2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 3134,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 24162,
+                "translateY": 13000
+            },
+            "name": "b3"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 7,
+            "characterId": 3141,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 36000,
+                "translateY": 8800
+            },
+            "name": "b4"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "type": "DefineDynamicText",
+    "id": 767,
+    "bounds": {
+        "xMin": -40,
+        "xMax": 1950,
+        "yMin": -40,
+        "yMax": 345
+    },
+    "wordWrap": false,
+    "multiline": false,
+    "password": false,
+    "readonly": true,
+    "autoSize": false,
+    "noSelect": true,
+    "border": false,
+    "wasStatic": false,
+    "html": true,
+    "useGlyphFont": true,
+    "fontId": 361,
+    "fontSize": 240,
+    "color": {
+        "r": 153,
+        "g": 153,
+        "b": 153,
+        "a": 255
+    },
+    "align": 0,
+    "marginLeft": 0,
+    "marginRight": 0,
+    "indent": 0,
+    "leading": 40,
+    "text": "<p align=\"left\"></p>"
+}

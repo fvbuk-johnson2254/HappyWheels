@@ -1,0 +1,192 @@
+{
+    "type": "DefineSprite",
+    "id": 449,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 14,
+            "characterId": 444,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 15,
+            "characterId": 445,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 208,
+                "translateY": 482
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 51
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 16,
+            "characterId": 446,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 199,
+                "translateY": 618
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 31
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 17,
+            "characterId": 447,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 540,
+                "translateY": 400
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 31
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 18,
+            "characterId": 448,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 199,
+                "translateY": 142
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 64
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

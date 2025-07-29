@@ -1,0 +1,121 @@
+{
+    "type": "DefineSprite",
+    "id": 3001,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2998,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "bg",
+            "filters": [
+                {
+                    "filter": 3,
+                    "shadowColor": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 76
+                    },
+                    "highlightColor": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 76
+                    },
+                    "blurX": {
+                        "epsilons": 327680
+                    },
+                    "blurY": {
+                        "epsilons": 327680
+                    },
+                    "angle": {
+                        "epsilons": 102943
+                    },
+                    "distance": {
+                        "epsilons": 327680
+                    },
+                    "strength": {
+                        "epsilons": 256
+                    },
+                    "inner": true,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "onTop": false,
+                    "passes": 3
+                },
+                {
+                    "filter": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 327680
+                    },
+                    "blurY": {
+                        "epsilons": 327680
+                    },
+                    "angle": {
+                        "epsilons": 102943
+                    },
+                    "distance": {
+                        "epsilons": 327680
+                    },
+                    "strength": {
+                        "epsilons": 76
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 3
+                }
+            ]
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 3000,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 196,
+                "translateY": 39
+            },
+            "name": "textSprite"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

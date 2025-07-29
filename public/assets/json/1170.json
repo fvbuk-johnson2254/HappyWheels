@@ -1,0 +1,404 @@
+{
+    "type": "DefineSprite",
+    "id": 1170,
+    "frameCount": 9,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 1137,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 1081,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 42618
+                },
+                "scaleY": {
+                    "epsilons": 55707
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "shape"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 24,
+            "characterId": 1138,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 177,
+                "translateY": -958
+            },
+            "name": "spineRef"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 4
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1140,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 13,
+                "translateY": -845
+            },
+            "ratio": 1,
+            "name": "neck"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 1
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 1142,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "ratio": 2,
+            "name": "wound"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1140,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 13,
+                "translateY": -845
+            },
+            "ratio": 3,
+            "name": "neck"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 1
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 4
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "characterId": 1143
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1140,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 13,
+                "translateY": -845
+            },
+            "ratio": 5,
+            "name": "neck"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 1
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 1142,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "ratio": 6,
+            "name": "wound"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1140,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 13,
+                "translateY": -845
+            },
+            "ratio": 7,
+            "name": "neck"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 1
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 3
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 4
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1145,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 465,
+                "translateY": -477
+            },
+            "ratio": 8,
+            "name": "chunk1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 1147,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 556,
+                "translateY": 636
+            },
+            "ratio": 8,
+            "name": "chunk2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 7,
+            "characterId": 1149,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -472,
+                "translateY": 585
+            },
+            "ratio": 8,
+            "name": "chunk3"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 9,
+            "characterId": 1151,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -504,
+                "translateY": -436
+            },
+            "ratio": 8,
+            "name": "chunk4"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 11,
+            "characterId": 1169,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -241,
+                "translateY": -1454
+            },
+            "ratio": 8,
+            "name": "heart"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

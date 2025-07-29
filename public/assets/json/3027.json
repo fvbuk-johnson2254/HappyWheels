@@ -1,0 +1,292 @@
+{
+    "type": "DefineSprite",
+    "id": 3027,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 371,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 611,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 589842
+                },
+                "scaleY": {
+                    "epsilons": 36045
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 128
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            },
+            "blendMode": 12
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 3020,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 2040,
+                "translateY": 100
+            },
+            "filters": [
+                {
+                    "filter": 2,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 327680
+                    },
+                    "blurY": {
+                        "epsilons": 327680
+                    },
+                    "strength": {
+                        "epsilons": 128
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 1
+                },
+                {
+                    "filter": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 327680
+                    },
+                    "blurY": {
+                        "epsilons": 327680
+                    },
+                    "angle": {
+                        "epsilons": 102943
+                    },
+                    "distance": {
+                        "epsilons": 196608
+                    },
+                    "strength": {
+                        "epsilons": 76
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 3
+                }
+            ]
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 6,
+            "characterId": 611,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 589842
+                },
+                "scaleY": {
+                    "epsilons": 3277
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 1100
+            },
+            "blendMode": 12
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 8,
+            "characterId": 377,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 200,
+                "translateY": 280
+            },
+            "name": "backButton"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 12,
+            "characterId": 2972,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67596
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1780,
+                "translateY": 2280
+            },
+            "blendMode": 12
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 14,
+            "characterId": 3026,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1780,
+                "translateY": 1840
+            },
+            "name": "listHeader"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 23,
+            "characterId": 2972,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67596
+                },
+                "scaleY": {
+                    "epsilons": 69632
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1780,
+                "translateY": 1840
+            },
+            "name": "shadow",
+            "filters": [
+                {
+                    "filter": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 524288
+                    },
+                    "blurY": {
+                        "epsilons": 524288
+                    },
+                    "angle": {
+                        "epsilons": 51471
+                    },
+                    "distance": {
+                        "epsilons": 196608
+                    },
+                    "strength": {
+                        "epsilons": 128
+                    },
+                    "inner": true,
+                    "knockout": true,
+                    "compositeSource": true,
+                    "passes": 3
+                }
+            ]
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

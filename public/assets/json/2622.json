@@ -1,0 +1,147 @@
+{
+    "type": "DefineSprite",
+    "id": 2622,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2615,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 140
+            },
+            "name": "jet3"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 2615,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": -65536
+                },
+                "scaleY": {
+                    "epsilons": -65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": -140
+            },
+            "name": "jet1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 2615,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 6
+                },
+                "scaleY": {
+                    "epsilons": 6
+                },
+                "rotateSkew0": {
+                    "epsilons": 65536
+                },
+                "rotateSkew1": {
+                    "epsilons": -65536
+                },
+                "translateX": -140,
+                "translateY": 0
+            },
+            "name": "jet4"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 7,
+            "characterId": 2615,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 6
+                },
+                "scaleY": {
+                    "epsilons": 6
+                },
+                "rotateSkew0": {
+                    "epsilons": -65536
+                },
+                "rotateSkew1": {
+                    "epsilons": 65536
+                },
+                "translateX": 140,
+                "translateY": 0
+            },
+            "name": "jet2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 10,
+            "characterId": 2616,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 11,
+            "characterId": 2621,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "light"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

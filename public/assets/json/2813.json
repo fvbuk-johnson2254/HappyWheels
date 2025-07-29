@@ -1,0 +1,145 @@
+{
+    "type": "DefineSprite",
+    "id": 2813,
+    "frameCount": 18,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2809,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 2810,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1800,
+                "translateY": -1800
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 2810,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1800,
+                "translateY": 1800
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 2811
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 2812
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 2801
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "DefineShape",
+    "id": 246,
+    "bounds": {
+        "xMin": 0,
+        "xMax": 133,
+        "yMin": 0,
+        "yMax": 121
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 127,
+                        "g": 127,
+                        "b": 127,
+                        "a": 255
+                    }
+                },
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 172,
+                        "g": 172,
+                        "b": 172,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 116,
+                    "y": 33
+                },
+                "leftFill": 2
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -60,
+                    "y": -33
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -56,
+                    "y": 61
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 31,
+                    "y": 32
+                }
+            },
+            {
+                "type": 1,
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 85,
+                    "y": -60
+                }
+            },
+            {
+                "type": 1,
+                "leftFill": 0
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 17,
+                    "y": 7
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -76,
+                    "y": 81
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -26,
+                    "y": -28
+                }
+            }
+        ]
+    }
+}

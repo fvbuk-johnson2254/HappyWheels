@@ -1,0 +1,102 @@
+{
+    "type": "DefineSprite",
+    "id": 111,
+    "frameCount": 2,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 103,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 110,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -160,
+                "translateY": 300
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 105
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -160,
+                "translateY": 450
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 0
+                },
+                "greenMult": {
+                    "epsilons": 0
+                },
+                "blueMult": {
+                    "epsilons": 0
+                },
+                "alphaMult": {
+                    "epsilons": 256
+                },
+                "redAdd": 255,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

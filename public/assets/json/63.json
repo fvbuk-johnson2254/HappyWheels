@@ -1,0 +1,224 @@
+{
+    "type": "DefineShape",
+    "id": 63,
+    "bounds": {
+        "xMin": -391,
+        "xMax": 391,
+        "yMin": -391,
+        "yMax": 391
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 274,
+                    "y": -274
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 117,
+                    "y": 110
+                },
+                "delta": {
+                    "x": 117,
+                    "y": 274
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 0,
+                    "y": 156
+                },
+                "delta": {
+                    "x": -117,
+                    "y": 274
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -118,
+                    "y": 117
+                },
+                "delta": {
+                    "x": -274,
+                    "y": 117
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -164,
+                    "y": 0
+                },
+                "delta": {
+                    "x": -281,
+                    "y": -117
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -110,
+                    "y": -118
+                },
+                "delta": {
+                    "x": -110,
+                    "y": -274
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 0,
+                    "y": -164
+                },
+                "delta": {
+                    "x": 110,
+                    "y": -274
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 117,
+                    "y": -117
+                },
+                "delta": {
+                    "x": 281,
+                    "y": -117
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 156,
+                    "y": 0
+                },
+                "delta": {
+                    "x": 274,
+                    "y": 117
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 264,
+                    "y": -264
+                },
+                "leftFill": 1,
+                "rightFill": 0
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 112,
+                    "y": 106
+                },
+                "delta": {
+                    "x": 112,
+                    "y": 264
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 0,
+                    "y": 150
+                },
+                "delta": {
+                    "x": -112,
+                    "y": 264
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -114,
+                    "y": 112
+                },
+                "delta": {
+                    "x": -264,
+                    "y": 112
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -158,
+                    "y": 0
+                },
+                "delta": {
+                    "x": -271,
+                    "y": -112
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -105,
+                    "y": -114
+                },
+                "delta": {
+                    "x": -105,
+                    "y": -264
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 0,
+                    "y": -158
+                },
+                "delta": {
+                    "x": 105,
+                    "y": -264
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 113,
+                    "y": -112
+                },
+                "delta": {
+                    "x": 271,
+                    "y": -112
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 150,
+                    "y": 0
+                },
+                "delta": {
+                    "x": 264,
+                    "y": 112
+                }
+            }
+        ]
+    }
+}

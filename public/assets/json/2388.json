@@ -1,0 +1,171 @@
+{
+    "type": "DefineSprite",
+    "id": 2388,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2306,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 13,
+                "translateY": -362
+            },
+            "name": "arm2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 6,
+            "characterId": 2319,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -66,
+                "translateY": 975
+            },
+            "name": "leg2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 11,
+            "characterId": 2335,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -1,
+                "translateY": -340
+            },
+            "name": "headOuter"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 13,
+            "characterId": 2352,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "chest"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 36,
+            "characterId": 2365,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65469
+                },
+                "scaleY": {
+                    "epsilons": 65469
+                },
+                "rotateSkew0": {
+                    "epsilons": -45
+                },
+                "rotateSkew1": {
+                    "epsilons": 45
+                },
+                "translateX": -22,
+                "translateY": 990
+            },
+            "name": "pelvis"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 42,
+            "characterId": 2377,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -67,
+                "translateY": 975
+            },
+            "name": "leg1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 47,
+            "characterId": 2387,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1,
+                "translateY": -381
+            },
+            "name": "arm1"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

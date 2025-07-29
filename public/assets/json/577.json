@@ -1,0 +1,148 @@
+{
+    "type": "DefineSprite",
+    "id": 577,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 245,
+                "translateY": -281
+            },
+            "name": "p0_1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 401,
+                "translateY": 4
+            },
+            "name": "p0_2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 260,
+                "translateY": 261
+            },
+            "name": "p0_3"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 7,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -182,
+                "translateY": 281
+            },
+            "name": "p0_4"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 9,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -402,
+                "translateY": 12
+            },
+            "name": "p0_5"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 11,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -238,
+                "translateY": -257
+            },
+            "name": "p0_0"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "type": "DefineSprite",
+    "id": 1035,
+    "frameCount": 3,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1028,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 1030,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 40,
+                "translateY": 40
+            },
+            "filters": [
+                {
+                    "filter": 2,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 262144
+                    },
+                    "blurY": {
+                        "epsilons": 262144
+                    },
+                    "strength": {
+                        "epsilons": 640
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 3
+                }
+            ]
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 2
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 1032,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 40,
+                "translateY": 40
+            },
+            "ratio": 1,
+            "filters": [
+                {
+                    "filter": 2,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 262144
+                    },
+                    "blurY": {
+                        "epsilons": 262144
+                    },
+                    "strength": {
+                        "epsilons": 640
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 3
+                }
+            ]
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 2
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 1034,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65534
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 40,
+                "translateY": 40
+            },
+            "ratio": 2,
+            "filters": [
+                {
+                    "filter": 2,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 262144
+                    },
+                    "blurY": {
+                        "epsilons": 262144
+                    },
+                    "strength": {
+                        "epsilons": 640
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 3
+                }
+            ]
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

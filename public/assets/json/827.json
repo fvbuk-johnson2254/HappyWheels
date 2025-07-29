@@ -1,0 +1,32 @@
+{
+    "type": "DefineSprite",
+    "id": 827,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 823,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 3276800
+                },
+                "scaleY": {
+                    "epsilons": 2427
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

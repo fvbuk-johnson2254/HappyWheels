@@ -1,0 +1,161 @@
+{
+    "type": "DefineSprite",
+    "id": 454,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 441,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 9866
+                },
+                "scaleY": {
+                    "epsilons": 9866
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 888,
+                "translateY": 1299
+            },
+            "name": "head",
+            "filters": [
+                {
+                    "filter": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 327680
+                    },
+                    "blurY": {
+                        "epsilons": 327680
+                    },
+                    "angle": {
+                        "epsilons": 102943
+                    },
+                    "distance": {
+                        "epsilons": 327680
+                    },
+                    "strength": {
+                        "epsilons": 64
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 1
+                }
+            ]
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 9,
+            "characterId": 443,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1965,
+                "translateY": 1386
+            },
+            "name": "appButton"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 35,
+            "characterId": 449,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1965,
+                "translateY": 411
+            },
+            "name": "googlePlayAppButton"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 54,
+            "characterId": 453,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 4685,
+                "translateY": 398
+            },
+            "filters": [
+                {
+                    "filter": 0,
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    },
+                    "blurX": {
+                        "epsilons": 327680
+                    },
+                    "blurY": {
+                        "epsilons": 327680
+                    },
+                    "angle": {
+                        "epsilons": 102943
+                    },
+                    "distance": {
+                        "epsilons": 327680
+                    },
+                    "strength": {
+                        "epsilons": 64
+                    },
+                    "inner": false,
+                    "knockout": false,
+                    "compositeSource": true,
+                    "passes": 1
+                }
+            ]
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

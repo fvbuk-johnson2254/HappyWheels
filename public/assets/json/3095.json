@@ -1,0 +1,50 @@
+{
+    "type": "DefineSprite",
+    "id": 3095,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 3094,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": -65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 4882,
+                "translateY": 4324
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 77
+                },
+                "greenMult": {
+                    "epsilons": 77
+                },
+                "blueMult": {
+                    "epsilons": 77
+                },
+                "alphaMult": {
+                    "epsilons": 256
+                },
+                "redAdd": 70,
+                "greenAdd": 101,
+                "blueAdd": 142,
+                "alphaAdd": 0
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

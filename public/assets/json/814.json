@@ -1,0 +1,56 @@
+{
+    "type": "DefineSprite",
+    "id": 814,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 735,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 131072
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1600,
+                "translateY": 0
+            },
+            "name": "colorBorder"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 813,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 1790,
+                "translateY": 40
+            },
+            "name": "noColorSprite"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

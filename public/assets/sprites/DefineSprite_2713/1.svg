@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="212.0px" width="180.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 4.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M172.0 0.0 L172.0 184.0 172.0 204.0 84.0 204.0 0.0 204.0 0.0 0.0 172.0 0.0" fill="#aeb4b8" fill-rule="evenodd" stroke="none"/>
+    </clipPath>
+    <g clip-path="url(#clipPath0)">
+      <use ffdec:characterId="2709" height="204.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="172.0" xlink:href="#shape0"/>
+      <filter id="filter0">
+        <feConvolveMatrix divisor="9.0" in="SourceGraphic" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult0"/>
+        <feConvolveMatrix divisor="9.0" in="filterResult0" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult1"/>
+        <feConvolveMatrix divisor="9.0" in="filterResult1" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult2"/>
+      </filter>
+      <use ffdec:characterId="2712" ffdec:characterName="game_fla.building2window1shadow_170" filter="url(#filter0)" height="212.0" id="frameShadow" transform="matrix(1.0, 0.0, 0.0, 1.0, -4.0, -4.0)" width="180.0" xlink:href="#sprite0"/>
+    </g>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 0.0)">
+      <use ffdec:characterId="2710" height="212.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -4.0, 0.0)" width="176.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 0.0)">
+      <path d="M172.0 0.0 L172.0 44.0 172.0 132.5 172.0 141.0 172.0 212.0 171.0 212.0 152.0 212.0 152.0 44.0 -4.0 44.0 -4.0 40.0 152.0 40.0 152.0 0.0 171.0 0.0 172.0 0.0" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

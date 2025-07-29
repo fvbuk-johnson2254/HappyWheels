@@ -1,0 +1,78 @@
+{
+    "type": "DefineSprite",
+    "id": 2632,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2625,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 6
+                },
+                "scaleY": {
+                    "epsilons": 6
+                },
+                "rotateSkew0": {
+                    "epsilons": -65536
+                },
+                "rotateSkew1": {
+                    "epsilons": 65536
+                },
+                "translateX": 1,
+                "translateY": -1001
+            },
+            "name": "harpoon"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 6,
+            "characterId": 2626,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 7,
+            "characterId": 2631,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -45,
+                "translateY": -645
+            },
+            "name": "light"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

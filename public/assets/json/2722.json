@@ -1,0 +1,95 @@
+{
+    "type": "DefineShape",
+    "id": 2722,
+    "bounds": {
+        "xMin": 0,
+        "xMax": 2579,
+        "yMin": 0,
+        "yMax": 4060
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 121,
+                        "g": 125,
+                        "b": 128,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 2579,
+                    "y": 1060
+                },
+                "leftFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -1060
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -2579,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 1060
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 1840,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 3000
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 200,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -3000
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 539,
+                    "y": 0
+                }
+            }
+        ]
+    }
+}

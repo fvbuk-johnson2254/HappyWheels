@@ -1,0 +1,110 @@
+{
+    "type": "DefineShape",
+    "id": 2748,
+    "bounds": {
+        "xMin": 0,
+        "xMax": 2000,
+        "yMin": 0,
+        "yMax": 120
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 2,
+                    "matrix": {
+                        "scaleX": {
+                            "epsilons": 0
+                        },
+                        "scaleY": {
+                            "epsilons": 0
+                        },
+                        "rotateSkew0": {
+                            "epsilons": 220
+                        },
+                        "rotateSkew1": {
+                            "epsilons": -283
+                        },
+                        "translateX": 1857,
+                        "translateY": 58
+                    },
+                    "gradient": {
+                        "spread": 0,
+                        "colorSpace": 0,
+                        "colors": [
+                            {
+                                "ratio": 0,
+                                "color": {
+                                    "r": 217,
+                                    "g": 219,
+                                    "b": 225,
+                                    "a": 255
+                                }
+                            },
+                            {
+                                "ratio": 93,
+                                "color": {
+                                    "r": 102,
+                                    "g": 102,
+                                    "b": 102,
+                                    "a": 255
+                                }
+                            },
+                            {
+                                "ratio": 255,
+                                "color": {
+                                    "r": 204,
+                                    "g": 204,
+                                    "b": 204,
+                                    "a": 255
+                                }
+                            }
+                        ]
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 2000,
+                    "y": 120
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -2000,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -120
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 2000,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 120
+                }
+            }
+        ]
+    }
+}

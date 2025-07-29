@@ -1,0 +1,102 @@
+{
+    "type": "DefineSprite",
+    "id": 599,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 113,
+                "translateY": -344
+            },
+            "name": "p0_1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 129,
+                "translateY": 402
+            },
+            "name": "p0_2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -137,
+                "translateY": 394
+            },
+            "name": "p0_3"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 7,
+            "characterId": 552,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 13073
+                },
+                "scaleY": {
+                    "epsilons": 13073
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -137,
+                "translateY": -339
+            },
+            "name": "p0_0"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

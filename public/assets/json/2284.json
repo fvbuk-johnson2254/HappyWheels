@@ -1,0 +1,33 @@
+{
+    "type": "DefineSprite",
+    "id": 2284,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2283,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -22,
+                "translateY": 365
+            },
+            "name": "lowerLeg1"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

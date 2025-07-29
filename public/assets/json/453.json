@@ -1,0 +1,55 @@
+{
+    "type": "DefineSprite",
+    "id": 453,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 451,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 52429
+                },
+                "scaleY": {
+                    "epsilons": 52429
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "star"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 452,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61583
+                },
+                "scaleY": {
+                    "epsilons": 61583
+                },
+                "rotateSkew0": {
+                    "epsilons": 22415
+                },
+                "rotateSkew1": {
+                    "epsilons": -22415
+                },
+                "translateX": -230,
+                "translateY": -222
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "type": "DefineShape",
+    "id": 87,
+    "bounds": {
+        "xMin": 0,
+        "xMax": 600,
+        "yMin": 0,
+        "yMax": 600
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 204,
+                        "g": 204,
+                        "b": 204,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 600,
+                    "y": 600
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -600,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -600
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 600,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 600
+                }
+            }
+        ]
+    }
+}

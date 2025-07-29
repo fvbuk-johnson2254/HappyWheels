@@ -1,0 +1,4489 @@
+{
+    "type": "DefineSprite",
+    "id": 1169,
+    "frameCount": 35,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1152,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 2,
+            "characterId": 1153,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 1154,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 1156,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 109,
+                "translateY": -84
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 6,
+            "characterId": 1158,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 5,
+                "translateY": -215
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 8,
+            "characterId": 1160,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -89,
+                "translateY": -201
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 10,
+            "characterId": 1162,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -145,
+                "translateY": -83
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 12,
+            "characterId": 1164,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -162,
+                "translateY": 10
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 4297
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 4297
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 4297
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 66177
+                },
+                "scaleY": {
+                    "epsilons": 65517
+                },
+                "rotateSkew0": {
+                    "epsilons": -1194
+                },
+                "rotateSkew1": {
+                    "epsilons": 1182
+                },
+                "translateX": 110,
+                "translateY": -85
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65510
+                },
+                "scaleY": {
+                    "epsilons": 66171
+                },
+                "rotateSkew0": {
+                    "epsilons": -1458
+                },
+                "rotateSkew1": {
+                    "epsilons": 1473
+                },
+                "translateX": 5,
+                "translateY": -215
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65533
+                },
+                "scaleY": {
+                    "epsilons": 65756
+                },
+                "rotateSkew0": {
+                    "epsilons": -319
+                },
+                "rotateSkew1": {
+                    "epsilons": 320
+                },
+                "translateX": -88,
+                "translateY": -200
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65967
+                },
+                "scaleY": {
+                    "epsilons": 65526
+                },
+                "rotateSkew0": {
+                    "epsilons": 931
+                },
+                "rotateSkew1": {
+                    "epsilons": -925
+                },
+                "translateX": -145,
+                "translateY": -82
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65526
+                },
+                "scaleY": {
+                    "epsilons": 65526
+                },
+                "rotateSkew0": {
+                    "epsilons": 925
+                },
+                "rotateSkew1": {
+                    "epsilons": -925
+                },
+                "translateX": -161,
+                "translateY": 11
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 8447
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 8447
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 8447
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 66775
+                },
+                "scaleY": {
+                    "epsilons": 65478
+                },
+                "rotateSkew0": {
+                    "epsilons": -2398
+                },
+                "rotateSkew1": {
+                    "epsilons": 2352
+                },
+                "translateX": 112,
+                "translateY": -86
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65453
+                },
+                "scaleY": {
+                    "epsilons": 66750
+                },
+                "rotateSkew0": {
+                    "epsilons": -2901
+                },
+                "rotateSkew1": {
+                    "epsilons": 2959
+                },
+                "translateX": 6,
+                "translateY": -215
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65527
+                },
+                "scaleY": {
+                    "epsilons": 65967
+                },
+                "rotateSkew0": {
+                    "epsilons": -633
+                },
+                "rotateSkew1": {
+                    "epsilons": 638
+                },
+                "translateX": -87,
+                "translateY": -200
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 66362
+                },
+                "scaleY": {
+                    "epsilons": 65497
+                },
+                "rotateSkew0": {
+                    "epsilons": 2081
+                },
+                "rotateSkew1": {
+                    "epsilons": -2054
+                },
+                "translateX": -144,
+                "translateY": -82
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65497
+                },
+                "scaleY": {
+                    "epsilons": 65497
+                },
+                "rotateSkew0": {
+                    "epsilons": 2054
+                },
+                "rotateSkew1": {
+                    "epsilons": -2054
+                },
+                "translateX": -160,
+                "translateY": 12
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 12453
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 12453
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 12453
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67316
+                },
+                "scaleY": {
+                    "epsilons": 65405
+                },
+                "rotateSkew0": {
+                    "epsilons": -3833
+                },
+                "rotateSkew1": {
+                    "epsilons": 3724
+                },
+                "translateX": 113,
+                "translateY": -87
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65365
+                },
+                "scaleY": {
+                    "epsilons": 67273
+                },
+                "rotateSkew0": {
+                    "epsilons": -4330
+                },
+                "rotateSkew1": {
+                    "epsilons": 4457
+                },
+                "translateX": 6,
+                "translateY": -216
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65518
+                },
+                "scaleY": {
+                    "epsilons": 66166
+                },
+                "rotateSkew0": {
+                    "epsilons": -1159
+                },
+                "rotateSkew1": {
+                    "epsilons": 1170
+                },
+                "translateX": -86,
+                "translateY": -199
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 66723
+                },
+                "scaleY": {
+                    "epsilons": 65448
+                },
+                "rotateSkew0": {
+                    "epsilons": 3235
+                },
+                "rotateSkew1": {
+                    "epsilons": -3173
+                },
+                "translateX": -144,
+                "translateY": -81
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65448
+                },
+                "scaleY": {
+                    "epsilons": 65448
+                },
+                "rotateSkew0": {
+                    "epsilons": 3173
+                },
+                "rotateSkew1": {
+                    "epsilons": -3173
+                },
+                "translateX": -160,
+                "translateY": 12
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 16311
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 16311
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 16311
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67822
+                },
+                "scaleY": {
+                    "epsilons": 65323
+                },
+                "rotateSkew0": {
+                    "epsilons": -5056
+                },
+                "rotateSkew1": {
+                    "epsilons": 4870
+                },
+                "translateX": 114,
+                "translateY": -88
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65246
+                },
+                "scaleY": {
+                    "epsilons": 67743
+                },
+                "rotateSkew0": {
+                    "epsilons": -5743
+                },
+                "rotateSkew1": {
+                    "epsilons": 5963
+                },
+                "translateX": 6,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65509
+                },
+                "scaleY": {
+                    "epsilons": 66357
+                },
+                "rotateSkew0": {
+                    "epsilons": -1467
+                },
+                "rotateSkew1": {
+                    "epsilons": 1486
+                },
+                "translateX": -85,
+                "translateY": -199
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67065
+                },
+                "scaleY": {
+                    "epsilons": 65396
+                },
+                "rotateSkew0": {
+                    "epsilons": 4171
+                },
+                "rotateSkew1": {
+                    "epsilons": -4067
+                },
+                "translateX": -143,
+                "translateY": -81
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65396
+                },
+                "scaleY": {
+                    "epsilons": 65396
+                },
+                "rotateSkew0": {
+                    "epsilons": 4067
+                },
+                "rotateSkew1": {
+                    "epsilons": -4067
+                },
+                "translateX": -159,
+                "translateY": 13
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 20025
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 20025
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 20025
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68285
+                },
+                "scaleY": {
+                    "epsilons": 65221
+                },
+                "rotateSkew0": {
+                    "epsilons": -6285
+                },
+                "rotateSkew1": {
+                    "epsilons": 6003
+                },
+                "translateX": 116,
+                "translateY": -89
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65100
+                },
+                "scaleY": {
+                    "epsilons": 68158
+                },
+                "rotateSkew0": {
+                    "epsilons": -7142
+                },
+                "rotateSkew1": {
+                    "epsilons": 7477
+                },
+                "translateX": 7,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65500
+                },
+                "scaleY": {
+                    "epsilons": 66541
+                },
+                "rotateSkew0": {
+                    "epsilons": -1772
+                },
+                "rotateSkew1": {
+                    "epsilons": 1800
+                },
+                "translateX": -83,
+                "translateY": -199
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67362
+                },
+                "scaleY": {
+                    "epsilons": 65315
+                },
+                "rotateSkew0": {
+                    "epsilons": 5328
+                },
+                "rotateSkew1": {
+                    "epsilons": -5166
+                },
+                "translateX": -143,
+                "translateY": -80
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65315
+                },
+                "scaleY": {
+                    "epsilons": 65315
+                },
+                "rotateSkew0": {
+                    "epsilons": 5166
+                },
+                "rotateSkew1": {
+                    "epsilons": -5166
+                },
+                "translateX": -158,
+                "translateY": 14
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 23593
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 23593
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 23593
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68730
+                },
+                "scaleY": {
+                    "epsilons": 65125
+                },
+                "rotateSkew0": {
+                    "epsilons": -7293
+                },
+                "rotateSkew1": {
+                    "epsilons": 6911
+                },
+                "translateX": 116,
+                "translateY": -90
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64953
+                },
+                "scaleY": {
+                    "epsilons": 68548
+                },
+                "rotateSkew0": {
+                    "epsilons": -8311
+                },
+                "rotateSkew1": {
+                    "epsilons": 8771
+                },
+                "translateX": 7,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65489
+                },
+                "scaleY": {
+                    "epsilons": 66714
+                },
+                "rotateSkew0": {
+                    "epsilons": -2072
+                },
+                "rotateSkew1": {
+                    "epsilons": 2111
+                },
+                "translateX": -83,
+                "translateY": -198
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67646
+                },
+                "scaleY": {
+                    "epsilons": 65237
+                },
+                "rotateSkew0": {
+                    "epsilons": 6262
+                },
+                "rotateSkew1": {
+                    "epsilons": -6039
+                },
+                "translateX": -144,
+                "translateY": -80
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65237
+                },
+                "scaleY": {
+                    "epsilons": 65237
+                },
+                "rotateSkew0": {
+                    "epsilons": 6039
+                },
+                "rotateSkew1": {
+                    "epsilons": -6039
+                },
+                "translateX": -158,
+                "translateY": 14
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 27016
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 27016
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 27016
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69111
+                },
+                "scaleY": {
+                    "epsilons": 64991
+                },
+                "rotateSkew0": {
+                    "epsilons": -8527
+                },
+                "rotateSkew1": {
+                    "epsilons": 8019
+                },
+                "translateX": 117,
+                "translateY": -91
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64788
+                },
+                "scaleY": {
+                    "epsilons": 68894
+                },
+                "rotateSkew0": {
+                    "epsilons": -9464
+                },
+                "rotateSkew1": {
+                    "epsilons": 10064
+                },
+                "translateX": 7,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65468
+                },
+                "scaleY": {
+                    "epsilons": 66871
+                },
+                "rotateSkew0": {
+                    "epsilons": -2584
+                },
+                "rotateSkew1": {
+                    "epsilons": 2639
+                },
+                "translateX": -82,
+                "translateY": -198
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 67904
+                },
+                "scaleY": {
+                    "epsilons": 65149
+                },
+                "rotateSkew0": {
+                    "epsilons": 7195
+                },
+                "rotateSkew1": {
+                    "epsilons": -6903
+                },
+                "translateX": -143,
+                "translateY": -79
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65149
+                },
+                "scaleY": {
+                    "epsilons": 65149
+                },
+                "rotateSkew0": {
+                    "epsilons": 6903
+                },
+                "rotateSkew1": {
+                    "epsilons": -6903
+                },
+                "translateX": -157,
+                "translateY": 15
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 30292
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 30292
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 30292
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69481
+                },
+                "scaleY": {
+                    "epsilons": 64870
+                },
+                "rotateSkew0": {
+                    "epsilons": -9533
+                },
+                "rotateSkew1": {
+                    "epsilons": 8900
+                },
+                "translateX": 119,
+                "translateY": -92
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64568
+                },
+                "scaleY": {
+                    "epsilons": 69157
+                },
+                "rotateSkew0": {
+                    "epsilons": -10812
+                },
+                "rotateSkew1": {
+                    "epsilons": 11581
+                },
+                "translateX": 8,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65454
+                },
+                "scaleY": {
+                    "epsilons": 67027
+                },
+                "rotateSkew0": {
+                    "epsilons": -2877
+                },
+                "rotateSkew1": {
+                    "epsilons": 2946
+                },
+                "translateX": -81,
+                "translateY": -197
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68134
+                },
+                "scaleY": {
+                    "epsilons": 65050
+                },
+                "rotateSkew0": {
+                    "epsilons": 8123
+                },
+                "rotateSkew1": {
+                    "epsilons": -7755
+                },
+                "translateX": -143,
+                "translateY": -79
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65050
+                },
+                "scaleY": {
+                    "epsilons": 65050
+                },
+                "rotateSkew0": {
+                    "epsilons": 7755
+                },
+                "rotateSkew1": {
+                    "epsilons": -7755
+                },
+                "translateX": -156,
+                "translateY": 16
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 33424
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 33424
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 33424
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69781
+                },
+                "scaleY": {
+                    "epsilons": 64705
+                },
+                "rotateSkew0": {
+                    "epsilons": -10765
+                },
+                "rotateSkew1": {
+                    "epsilons": 9982
+                },
+                "translateX": 119,
+                "translateY": -93
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64404
+                },
+                "scaleY": {
+                    "epsilons": 69454
+                },
+                "rotateSkew0": {
+                    "epsilons": -11722
+                },
+                "rotateSkew1": {
+                    "epsilons": 12641
+                },
+                "translateX": 9,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65439
+                },
+                "scaleY": {
+                    "epsilons": 67174
+                },
+                "rotateSkew0": {
+                    "epsilons": -3167
+                },
+                "rotateSkew1": {
+                    "epsilons": 3250
+                },
+                "translateX": -80,
+                "translateY": -197
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68338
+                },
+                "scaleY": {
+                    "epsilons": 64941
+                },
+                "rotateSkew0": {
+                    "epsilons": 9047
+                },
+                "rotateSkew1": {
+                    "epsilons": -8597
+                },
+                "translateX": -141,
+                "translateY": -78
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64941
+                },
+                "scaleY": {
+                    "epsilons": 64941
+                },
+                "rotateSkew0": {
+                    "epsilons": 8597
+                },
+                "rotateSkew1": {
+                    "epsilons": -8597
+                },
+                "translateX": -156,
+                "translateY": 16
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 36408
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 36408
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 36408
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 70079
+                },
+                "scaleY": {
+                    "epsilons": 64563
+                },
+                "rotateSkew0": {
+                    "epsilons": -11764
+                },
+                "rotateSkew1": {
+                    "epsilons": 10838
+                },
+                "translateX": 121,
+                "translateY": -93
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64187
+                },
+                "scaleY": {
+                    "epsilons": 69669
+                },
+                "rotateSkew0": {
+                    "epsilons": -12826
+                },
+                "rotateSkew1": {
+                    "epsilons": 13922
+                },
+                "translateX": 8,
+                "translateY": -215
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65422
+                },
+                "scaleY": {
+                    "epsilons": 67312
+                },
+                "rotateSkew0": {
+                    "epsilons": -3453
+                },
+                "rotateSkew1": {
+                    "epsilons": 3553
+                },
+                "translateX": -79,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68516
+                },
+                "scaleY": {
+                    "epsilons": 64823
+                },
+                "rotateSkew0": {
+                    "epsilons": 9964
+                },
+                "rotateSkew1": {
+                    "epsilons": -9427
+                },
+                "translateX": -143,
+                "translateY": -78
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64823
+                },
+                "scaleY": {
+                    "epsilons": 64823
+                },
+                "rotateSkew0": {
+                    "epsilons": 9427
+                },
+                "rotateSkew1": {
+                    "epsilons": -9427
+                },
+                "translateX": -155,
+                "translateY": 17
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 39249
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 39249
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 39249
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 70342
+                },
+                "scaleY": {
+                    "epsilons": 64410
+                },
+                "rotateSkew0": {
+                    "epsilons": -12758
+                },
+                "rotateSkew1": {
+                    "epsilons": 11682
+                },
+                "translateX": 121,
+                "translateY": -94
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63952
+                },
+                "scaleY": {
+                    "epsilons": 69841
+                },
+                "rotateSkew0": {
+                    "epsilons": -13914
+                },
+                "rotateSkew1": {
+                    "epsilons": 15195
+                },
+                "translateX": 9,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65405
+                },
+                "scaleY": {
+                    "epsilons": 67441
+                },
+                "rotateSkew0": {
+                    "epsilons": -3735
+                },
+                "rotateSkew1": {
+                    "epsilons": 3853
+                },
+                "translateX": -78,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68706
+                },
+                "scaleY": {
+                    "epsilons": 64730
+                },
+                "rotateSkew0": {
+                    "epsilons": 10651
+                },
+                "rotateSkew1": {
+                    "epsilons": -10035
+                },
+                "translateX": -142,
+                "translateY": -78
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64730
+                },
+                "scaleY": {
+                    "epsilons": 64730
+                },
+                "rotateSkew0": {
+                    "epsilons": 10035
+                },
+                "rotateSkew1": {
+                    "epsilons": -10035
+                },
+                "translateX": -155,
+                "translateY": 17
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 41943
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 41943
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 41943
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 70572
+                },
+                "scaleY": {
+                    "epsilons": 64248
+                },
+                "rotateSkew0": {
+                    "epsilons": -13745
+                },
+                "rotateSkew1": {
+                    "epsilons": 12513
+                },
+                "translateX": 121,
+                "translateY": -95
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63753
+                },
+                "scaleY": {
+                    "epsilons": 70026
+                },
+                "rotateSkew0": {
+                    "epsilons": -14776
+                },
+                "rotateSkew1": {
+                    "epsilons": 16231
+                },
+                "translateX": 9,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65386
+                },
+                "scaleY": {
+                    "epsilons": 67562
+                },
+                "rotateSkew0": {
+                    "epsilons": -4015
+                },
+                "rotateSkew1": {
+                    "epsilons": 4149
+                },
+                "translateX": -77,
+                "translateY": -195
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68837
+                },
+                "scaleY": {
+                    "epsilons": 64597
+                },
+                "rotateSkew0": {
+                    "epsilons": 11557
+                },
+                "rotateSkew1": {
+                    "epsilons": -10845
+                },
+                "translateX": -141,
+                "translateY": -77
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64597
+                },
+                "scaleY": {
+                    "epsilons": 64597
+                },
+                "rotateSkew0": {
+                    "epsilons": 10845
+                },
+                "rotateSkew1": {
+                    "epsilons": -10845
+                },
+                "translateX": -154,
+                "translateY": 18
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 44492
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 44492
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 44492
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 70818
+                },
+                "scaleY": {
+                    "epsilons": 64123
+                },
+                "rotateSkew0": {
+                    "epsilons": -14492
+                },
+                "rotateSkew1": {
+                    "epsilons": 13122
+                },
+                "translateX": 124,
+                "translateY": -96
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63545
+                },
+                "scaleY": {
+                    "epsilons": 70179
+                },
+                "rotateSkew0": {
+                    "epsilons": -15624
+                },
+                "rotateSkew1": {
+                    "epsilons": 17254
+                },
+                "translateX": 9,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65367
+                },
+                "scaleY": {
+                    "epsilons": 67675
+                },
+                "rotateSkew0": {
+                    "epsilons": -4290
+                },
+                "rotateSkew1": {
+                    "epsilons": 4443
+                },
+                "translateX": -77,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68984
+                },
+                "scaleY": {
+                    "epsilons": 64493
+                },
+                "rotateSkew0": {
+                    "epsilons": 12228
+                },
+                "rotateSkew1": {
+                    "epsilons": -11432
+                },
+                "translateX": -142,
+                "translateY": -77
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64493
+                },
+                "scaleY": {
+                    "epsilons": 64493
+                },
+                "rotateSkew0": {
+                    "epsilons": 11432
+                },
+                "rotateSkew1": {
+                    "epsilons": -11432
+                },
+                "translateX": -154,
+                "translateY": 18
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 46894
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 46894
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 46894
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 70985
+                },
+                "scaleY": {
+                    "epsilons": 63948
+                },
+                "rotateSkew0": {
+                    "epsilons": -15460
+                },
+                "rotateSkew1": {
+                    "epsilons": 13928
+                },
+                "translateX": 123,
+                "translateY": -96
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63330
+                },
+                "scaleY": {
+                    "epsilons": 70299
+                },
+                "rotateSkew0": {
+                    "epsilons": -16454
+                },
+                "rotateSkew1": {
+                    "epsilons": 18266
+                },
+                "translateX": 9,
+                "translateY": -215
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65363
+                },
+                "scaleY": {
+                    "epsilons": 67795
+                },
+                "rotateSkew0": {
+                    "epsilons": -4348
+                },
+                "rotateSkew1": {
+                    "epsilons": 4511
+                },
+                "translateX": -76,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69113
+                },
+                "scaleY": {
+                    "epsilons": 64387
+                },
+                "rotateSkew0": {
+                    "epsilons": 12889
+                },
+                "rotateSkew1": {
+                    "epsilons": -12008
+                },
+                "translateX": -141,
+                "translateY": -77
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64387
+                },
+                "scaleY": {
+                    "epsilons": 64387
+                },
+                "rotateSkew0": {
+                    "epsilons": 12008
+                },
+                "rotateSkew1": {
+                    "epsilons": -12008
+                },
+                "translateX": -153,
+                "translateY": 19
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 49152
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 49152
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 49152
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71175
+                },
+                "scaleY": {
+                    "epsilons": 63814
+                },
+                "rotateSkew0": {
+                    "epsilons": -16186
+                },
+                "rotateSkew1": {
+                    "epsilons": 14512
+                },
+                "translateX": 124,
+                "translateY": -97
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63108
+                },
+                "scaleY": {
+                    "epsilons": 70386
+                },
+                "rotateSkew0": {
+                    "epsilons": -17271
+                },
+                "rotateSkew1": {
+                    "epsilons": 19263
+                },
+                "translateX": 10,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65343
+                },
+                "scaleY": {
+                    "epsilons": 67891
+                },
+                "rotateSkew0": {
+                    "epsilons": -4617
+                },
+                "rotateSkew1": {
+                    "epsilons": 4797
+                },
+                "translateX": -75,
+                "translateY": -195
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69222
+                },
+                "scaleY": {
+                    "epsilons": 64277
+                },
+                "rotateSkew0": {
+                    "epsilons": 13542
+                },
+                "rotateSkew1": {
+                    "epsilons": -12575
+                },
+                "translateX": -141,
+                "translateY": -76
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64277
+                },
+                "scaleY": {
+                    "epsilons": 64277
+                },
+                "rotateSkew0": {
+                    "epsilons": 12575
+                },
+                "rotateSkew1": {
+                    "epsilons": -12575
+                },
+                "translateX": -153,
+                "translateY": 19
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 51264
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 51264
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 51264
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71283
+                },
+                "scaleY": {
+                    "epsilons": 63627
+                },
+                "rotateSkew0": {
+                    "epsilons": -17132
+                },
+                "rotateSkew1": {
+                    "epsilons": 15292
+                },
+                "translateX": 125,
+                "translateY": -97
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 62877
+                },
+                "scaleY": {
+                    "epsilons": 70441
+                },
+                "rotateSkew0": {
+                    "epsilons": -18072
+                },
+                "rotateSkew1": {
+                    "epsilons": 20245
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65321
+                },
+                "scaleY": {
+                    "epsilons": 67978
+                },
+                "rotateSkew0": {
+                    "epsilons": -4882
+                },
+                "rotateSkew1": {
+                    "epsilons": 5080
+                },
+                "translateX": -75,
+                "translateY": -195
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69312
+                },
+                "scaleY": {
+                    "epsilons": 64164
+                },
+                "rotateSkew0": {
+                    "epsilons": 14185
+                },
+                "rotateSkew1": {
+                    "epsilons": -13131
+                },
+                "translateX": -140,
+                "translateY": -75
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64164
+                },
+                "scaleY": {
+                    "epsilons": 64164
+                },
+                "rotateSkew0": {
+                    "epsilons": 13131
+                },
+                "rotateSkew1": {
+                    "epsilons": -13131
+                },
+                "translateX": -153,
+                "translateY": 20
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 53230
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 53230
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 53230
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71418
+                },
+                "scaleY": {
+                    "epsilons": 63487
+                },
+                "rotateSkew0": {
+                    "epsilons": -17832
+                },
+                "rotateSkew1": {
+                    "epsilons": 15852
+                },
+                "translateX": 126,
+                "translateY": -98
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 62704
+                },
+                "scaleY": {
+                    "epsilons": 70536
+                },
+                "rotateSkew0": {
+                    "epsilons": -18651
+                },
+                "rotateSkew1": {
+                    "epsilons": 20981
+                },
+                "translateX": 10,
+                "translateY": -212
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65301
+                },
+                "scaleY": {
+                    "epsilons": 68058
+                },
+                "rotateSkew0": {
+                    "epsilons": -5143
+                },
+                "rotateSkew1": {
+                    "epsilons": 5360
+                },
+                "translateX": -74,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69384
+                },
+                "scaleY": {
+                    "epsilons": 64048
+                },
+                "rotateSkew0": {
+                    "epsilons": 14816
+                },
+                "rotateSkew1": {
+                    "epsilons": -13677
+                },
+                "translateX": -142,
+                "translateY": -76
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64048
+                },
+                "scaleY": {
+                    "epsilons": 64048
+                },
+                "rotateSkew0": {
+                    "epsilons": 13677
+                },
+                "rotateSkew1": {
+                    "epsilons": -13677
+                },
+                "translateX": -152,
+                "translateY": 20
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 55051
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 55051
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 55051
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71527
+                },
+                "scaleY": {
+                    "epsilons": 63343
+                },
+                "rotateSkew0": {
+                    "epsilons": -18519
+                },
+                "rotateSkew1": {
+                    "epsilons": 16400
+                },
+                "translateX": 126,
+                "translateY": -98
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 62465
+                },
+                "scaleY": {
+                    "epsilons": 70535
+                },
+                "rotateSkew0": {
+                    "epsilons": -19422
+                },
+                "rotateSkew1": {
+                    "epsilons": 21931
+                },
+                "translateX": 10,
+                "translateY": -212
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65296
+                },
+                "scaleY": {
+                    "epsilons": 68148
+                },
+                "rotateSkew0": {
+                    "epsilons": -5187
+                },
+                "rotateSkew1": {
+                    "epsilons": 5413
+                },
+                "translateX": -74,
+                "translateY": -194
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69438
+                },
+                "scaleY": {
+                    "epsilons": 63929
+                },
+                "rotateSkew0": {
+                    "epsilons": 15437
+                },
+                "rotateSkew1": {
+                    "epsilons": -14212
+                },
+                "translateX": -141,
+                "translateY": -75
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63929
+                },
+                "scaleY": {
+                    "epsilons": 63929
+                },
+                "rotateSkew0": {
+                    "epsilons": 14212
+                },
+                "rotateSkew1": {
+                    "epsilons": -14212
+                },
+                "translateX": -152,
+                "translateY": 20
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 56725
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 56725
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 56725
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71676
+                },
+                "scaleY": {
+                    "epsilons": 63254
+                },
+                "rotateSkew0": {
+                    "epsilons": -18956
+                },
+                "rotateSkew1": {
+                    "epsilons": 16728
+                },
+                "translateX": 127,
+                "translateY": -100
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 62288
+                },
+                "scaleY": {
+                    "epsilons": 70580
+                },
+                "rotateSkew0": {
+                    "epsilons": -19973
+                },
+                "rotateSkew1": {
+                    "epsilons": 22632
+                },
+                "translateX": 10,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65274
+                },
+                "scaleY": {
+                    "epsilons": 68212
+                },
+                "rotateSkew0": {
+                    "epsilons": -5441
+                },
+                "rotateSkew1": {
+                    "epsilons": 5685
+                },
+                "translateX": -73,
+                "translateY": -194
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69526
+                },
+                "scaleY": {
+                    "epsilons": 63857
+                },
+                "rotateSkew0": {
+                    "epsilons": 15819
+                },
+                "rotateSkew1": {
+                    "epsilons": -14529
+                },
+                "translateX": -141,
+                "translateY": -75
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63857
+                },
+                "scaleY": {
+                    "epsilons": 63857
+                },
+                "rotateSkew0": {
+                    "epsilons": 14529
+                },
+                "rotateSkew1": {
+                    "epsilons": -14529
+                },
+                "translateX": -152,
+                "translateY": 20
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 58254
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 58254
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 58254
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71740
+                },
+                "scaleY": {
+                    "epsilons": 63110
+                },
+                "rotateSkew0": {
+                    "epsilons": -19613
+                },
+                "rotateSkew1": {
+                    "epsilons": 17254
+                },
+                "translateX": 126,
+                "translateY": -99
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 62110
+                },
+                "scaleY": {
+                    "epsilons": 70602
+                },
+                "rotateSkew0": {
+                    "epsilons": -20510
+                },
+                "rotateSkew1": {
+                    "epsilons": 23315
+                },
+                "translateX": 10,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65270
+                },
+                "scaleY": {
+                    "epsilons": 68288
+                },
+                "rotateSkew0": {
+                    "epsilons": -5477
+                },
+                "rotateSkew1": {
+                    "epsilons": 5731
+                },
+                "translateX": -73,
+                "translateY": -194
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69547
+                },
+                "scaleY": {
+                    "epsilons": 63736
+                },
+                "rotateSkew0": {
+                    "epsilons": 16416
+                },
+                "rotateSkew1": {
+                    "epsilons": -15044
+                },
+                "translateX": -141,
+                "translateY": -75
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63736
+                },
+                "scaleY": {
+                    "epsilons": 63736
+                },
+                "rotateSkew0": {
+                    "epsilons": 15044
+                },
+                "rotateSkew1": {
+                    "epsilons": -15044
+                },
+                "translateX": -151,
+                "translateY": 21
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 59638
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 59638
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 59638
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71846
+                },
+                "scaleY": {
+                    "epsilons": 63024
+                },
+                "rotateSkew0": {
+                    "epsilons": -20018
+                },
+                "rotateSkew1": {
+                    "epsilons": 17560
+                },
+                "translateX": 127,
+                "translateY": -99
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 62000
+                },
+                "scaleY": {
+                    "epsilons": 70679
+                },
+                "rotateSkew0": {
+                    "epsilons": -20831
+                },
+                "rotateSkew1": {
+                    "epsilons": 23747
+                },
+                "translateX": 10,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65248
+                },
+                "scaleY": {
+                    "epsilons": 68335
+                },
+                "rotateSkew0": {
+                    "epsilons": -5724
+                },
+                "rotateSkew1": {
+                    "epsilons": 5995
+                },
+                "translateX": -73,
+                "translateY": -195
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69607
+                },
+                "scaleY": {
+                    "epsilons": 63665
+                },
+                "rotateSkew0": {
+                    "epsilons": 16773
+                },
+                "rotateSkew1": {
+                    "epsilons": -15341
+                },
+                "translateX": -140,
+                "translateY": -75
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63665
+                },
+                "scaleY": {
+                    "epsilons": 63665
+                },
+                "rotateSkew0": {
+                    "epsilons": 15341
+                },
+                "rotateSkew1": {
+                    "epsilons": -15341
+                },
+                "translateX": -151,
+                "translateY": 21
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 60876
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 60876
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 60876
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71864
+                },
+                "scaleY": {
+                    "epsilons": 62878
+                },
+                "rotateSkew0": {
+                    "epsilons": -20643
+                },
+                "rotateSkew1": {
+                    "epsilons": 18062
+                },
+                "translateX": 129,
+                "translateY": -100
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61824
+                },
+                "scaleY": {
+                    "epsilons": 70657
+                },
+                "rotateSkew0": {
+                    "epsilons": -21341
+                },
+                "rotateSkew1": {
+                    "epsilons": 24391
+                },
+                "translateX": 11,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65244
+                },
+                "scaleY": {
+                    "epsilons": 68396
+                },
+                "rotateSkew0": {
+                    "epsilons": -5754
+                },
+                "rotateSkew1": {
+                    "epsilons": 6032
+                },
+                "translateX": -72,
+                "translateY": -194
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69653
+                },
+                "scaleY": {
+                    "epsilons": 63594
+                },
+                "rotateSkew0": {
+                    "epsilons": 17117
+                },
+                "rotateSkew1": {
+                    "epsilons": -15628
+                },
+                "translateX": -140,
+                "translateY": -75
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63594
+                },
+                "scaleY": {
+                    "epsilons": 63594
+                },
+                "rotateSkew0": {
+                    "epsilons": 15628
+                },
+                "rotateSkew1": {
+                    "epsilons": -15628
+                },
+                "translateX": -151,
+                "translateY": 21
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 61968
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 61968
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 61968
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71928
+                },
+                "scaleY": {
+                    "epsilons": 62793
+                },
+                "rotateSkew0": {
+                    "epsilons": -21015
+                },
+                "rotateSkew1": {
+                    "epsilons": 18346
+                },
+                "translateX": 128,
+                "translateY": -99
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61720
+                },
+                "scaleY": {
+                    "epsilons": 70697
+                },
+                "rotateSkew0": {
+                    "epsilons": -21636
+                },
+                "rotateSkew1": {
+                    "epsilons": 24783
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65242
+                },
+                "scaleY": {
+                    "epsilons": 68451
+                },
+                "rotateSkew0": {
+                    "epsilons": -5780
+                },
+                "rotateSkew1": {
+                    "epsilons": 6066
+                },
+                "translateX": -72,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69685
+                },
+                "scaleY": {
+                    "epsilons": 63524
+                },
+                "rotateSkew0": {
+                    "epsilons": 17448
+                },
+                "rotateSkew1": {
+                    "epsilons": -15905
+                },
+                "translateX": -140,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63524
+                },
+                "scaleY": {
+                    "epsilons": 63524
+                },
+                "rotateSkew0": {
+                    "epsilons": 15905
+                },
+                "rotateSkew1": {
+                    "epsilons": -15905
+                },
+                "translateX": -151,
+                "translateY": 22
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 62915
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 62915
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 62915
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71974
+                },
+                "scaleY": {
+                    "epsilons": 62712
+                },
+                "rotateSkew0": {
+                    "epsilons": -21370
+                },
+                "rotateSkew1": {
+                    "epsilons": 18620
+                },
+                "translateX": 128,
+                "translateY": -100
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61618
+                },
+                "scaleY": {
+                    "epsilons": 70717
+                },
+                "rotateSkew0": {
+                    "epsilons": -21917
+                },
+                "rotateSkew1": {
+                    "epsilons": 25155
+                },
+                "translateX": 10,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65220
+                },
+                "scaleY": {
+                    "epsilons": 68476
+                },
+                "rotateSkew0": {
+                    "epsilons": -6017
+                },
+                "rotateSkew1": {
+                    "epsilons": 6318
+                },
+                "translateX": -72,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69704
+                },
+                "scaleY": {
+                    "epsilons": 63456
+                },
+                "rotateSkew0": {
+                    "epsilons": 17765
+                },
+                "rotateSkew1": {
+                    "epsilons": -16173
+                },
+                "translateX": -140,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63456
+                },
+                "scaleY": {
+                    "epsilons": 63456
+                },
+                "rotateSkew0": {
+                    "epsilons": 16173
+                },
+                "rotateSkew1": {
+                    "epsilons": -16173
+                },
+                "translateX": -150,
+                "translateY": 22
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 63715
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 63715
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 63715
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71999
+                },
+                "scaleY": {
+                    "epsilons": 62632
+                },
+                "rotateSkew0": {
+                    "epsilons": -21707
+                },
+                "rotateSkew1": {
+                    "epsilons": 18883
+                },
+                "translateX": 129,
+                "translateY": -101
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61520
+                },
+                "scaleY": {
+                    "epsilons": 70720
+                },
+                "rotateSkew0": {
+                    "epsilons": -22187
+                },
+                "rotateSkew1": {
+                    "epsilons": 25504
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65218
+                },
+                "scaleY": {
+                    "epsilons": 68515
+                },
+                "rotateSkew0": {
+                    "epsilons": -6036
+                },
+                "rotateSkew1": {
+                    "epsilons": 6341
+                },
+                "translateX": -71,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69709
+                },
+                "scaleY": {
+                    "epsilons": 63388
+                },
+                "rotateSkew0": {
+                    "epsilons": 18071
+                },
+                "rotateSkew1": {
+                    "epsilons": -16432
+                },
+                "translateX": -139,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63388
+                },
+                "scaleY": {
+                    "epsilons": 63388
+                },
+                "rotateSkew0": {
+                    "epsilons": 16432
+                },
+                "rotateSkew1": {
+                    "epsilons": -16432
+                },
+                "translateX": -150,
+                "translateY": 22
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 64371
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 64371
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 64371
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 72079
+                },
+                "scaleY": {
+                    "epsilons": 62617
+                },
+                "rotateSkew0": {
+                    "epsilons": -21791
+                },
+                "rotateSkew1": {
+                    "epsilons": 18930
+                },
+                "translateX": 130,
+                "translateY": -101
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61425
+                },
+                "scaleY": {
+                    "epsilons": 70706
+                },
+                "rotateSkew0": {
+                    "epsilons": -22443
+                },
+                "rotateSkew1": {
+                    "epsilons": 25834
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65216
+                },
+                "scaleY": {
+                    "epsilons": 68548
+                },
+                "rotateSkew0": {
+                    "epsilons": -6052
+                },
+                "rotateSkew1": {
+                    "epsilons": 6361
+                },
+                "translateX": -72,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69764
+                },
+                "scaleY": {
+                    "epsilons": 63378
+                },
+                "rotateSkew0": {
+                    "epsilons": 18133
+                },
+                "rotateSkew1": {
+                    "epsilons": -16473
+                },
+                "translateX": -139,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63378
+                },
+                "scaleY": {
+                    "epsilons": 63378
+                },
+                "rotateSkew0": {
+                    "epsilons": 16473
+                },
+                "rotateSkew1": {
+                    "epsilons": -16473
+                },
+                "translateX": -150,
+                "translateY": 22
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 64881
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 64881
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 64881
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 72067
+                },
+                "scaleY": {
+                    "epsilons": 62542
+                },
+                "rotateSkew0": {
+                    "epsilons": -22092
+                },
+                "rotateSkew1": {
+                    "epsilons": 19172
+                },
+                "translateX": 130,
+                "translateY": -101
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61334
+                },
+                "scaleY": {
+                    "epsilons": 70674
+                },
+                "rotateSkew0": {
+                    "epsilons": -22687
+                },
+                "rotateSkew1": {
+                    "epsilons": 26141
+                },
+                "translateX": 11,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65214
+                },
+                "scaleY": {
+                    "epsilons": 68572
+                },
+                "rotateSkew0": {
+                    "epsilons": -6064
+                },
+                "rotateSkew1": {
+                    "epsilons": 6376
+                },
+                "translateX": -71,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69743
+                },
+                "scaleY": {
+                    "epsilons": 63314
+                },
+                "rotateSkew0": {
+                    "epsilons": 18410
+                },
+                "rotateSkew1": {
+                    "epsilons": -16713
+                },
+                "translateX": -139,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63314
+                },
+                "scaleY": {
+                    "epsilons": 63314
+                },
+                "rotateSkew0": {
+                    "epsilons": 16713
+                },
+                "rotateSkew1": {
+                    "epsilons": -16713
+                },
+                "translateX": -151,
+                "translateY": 23
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 65245
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 65245
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 65245
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 72111
+                },
+                "scaleY": {
+                    "epsilons": 62533
+                },
+                "rotateSkew0": {
+                    "epsilons": -22138
+                },
+                "rotateSkew1": {
+                    "epsilons": 19198
+                },
+                "translateX": 129,
+                "translateY": -101
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61322
+                },
+                "scaleY": {
+                    "epsilons": 70714
+                },
+                "rotateSkew0": {
+                    "epsilons": -22717
+                },
+                "rotateSkew1": {
+                    "epsilons": 26197
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65193
+                },
+                "scaleY": {
+                    "epsilons": 68568
+                },
+                "rotateSkew0": {
+                    "epsilons": -6287
+                },
+                "rotateSkew1": {
+                    "epsilons": 6613
+                },
+                "translateX": -71,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69772
+                },
+                "scaleY": {
+                    "epsilons": 63308
+                },
+                "rotateSkew0": {
+                    "epsilons": 18445
+                },
+                "rotateSkew1": {
+                    "epsilons": -16736
+                },
+                "translateX": -139,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63308
+                },
+                "scaleY": {
+                    "epsilons": 63308
+                },
+                "rotateSkew0": {
+                    "epsilons": 16736
+                },
+                "rotateSkew1": {
+                    "epsilons": -16736
+                },
+                "translateX": -150,
+                "translateY": 23
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 65463
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 65463
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 65463
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 72063
+                },
+                "scaleY": {
+                    "epsilons": 62464
+                },
+                "rotateSkew0": {
+                    "epsilons": -22402
+                },
+                "rotateSkew1": {
+                    "epsilons": 19418
+                },
+                "translateX": 129,
+                "translateY": -101
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61240
+                },
+                "scaleY": {
+                    "epsilons": 70649
+                },
+                "rotateSkew0": {
+                    "epsilons": -22936
+                },
+                "rotateSkew1": {
+                    "epsilons": 26460
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65192
+                },
+                "scaleY": {
+                    "epsilons": 68578
+                },
+                "rotateSkew0": {
+                    "epsilons": -6292
+                },
+                "rotateSkew1": {
+                    "epsilons": 6619
+                },
+                "translateX": -71,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69790
+                },
+                "scaleY": {
+                    "epsilons": 63304
+                },
+                "rotateSkew0": {
+                    "epsilons": 18466
+                },
+                "rotateSkew1": {
+                    "epsilons": -16750
+                },
+                "translateX": -139,
+                "translateY": -74
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63304
+                },
+                "scaleY": {
+                    "epsilons": 63304
+                },
+                "rotateSkew0": {
+                    "epsilons": 16750
+                },
+                "rotateSkew1": {
+                    "epsilons": -16750
+                },
+                "translateX": -150,
+                "translateY": 23
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "characterId": 1165,
+            "ratio": 0
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "characterId": 1166,
+            "ratio": 0
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "characterId": 1167,
+            "ratio": 0
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 72138
+                },
+                "scaleY": {
+                    "epsilons": 62520
+                },
+                "rotateSkew0": {
+                    "epsilons": -22438
+                },
+                "rotateSkew1": {
+                    "epsilons": 19446
+                },
+                "translateX": 130,
+                "translateY": -98
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61295
+                },
+                "scaleY": {
+                    "epsilons": 70724
+                },
+                "rotateSkew0": {
+                    "epsilons": -22991
+                },
+                "rotateSkew1": {
+                    "epsilons": 26528
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65208
+                },
+                "scaleY": {
+                    "epsilons": 68599
+                },
+                "rotateSkew0": {
+                    "epsilons": -6337
+                },
+                "rotateSkew1": {
+                    "epsilons": 6667
+                },
+                "translateX": -71,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69796
+                },
+                "scaleY": {
+                    "epsilons": 63303
+                },
+                "rotateSkew0": {
+                    "epsilons": 18702
+                },
+                "rotateSkew1": {
+                    "epsilons": -16962
+                },
+                "translateX": -137,
+                "translateY": -77
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63303
+                },
+                "scaleY": {
+                    "epsilons": 63303
+                },
+                "rotateSkew0": {
+                    "epsilons": 16962
+                },
+                "rotateSkew1": {
+                    "epsilons": -16962
+                },
+                "translateX": -150,
+                "translateY": 23
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 4096
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 4096
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 4096
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71933
+                },
+                "scaleY": {
+                    "epsilons": 62866
+                },
+                "rotateSkew0": {
+                    "epsilons": -20713
+                },
+                "rotateSkew1": {
+                    "epsilons": 18102
+                },
+                "translateX": 129,
+                "translateY": -97
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 61733
+                },
+                "scaleY": {
+                    "epsilons": 70637
+                },
+                "rotateSkew0": {
+                    "epsilons": -21590
+                },
+                "rotateSkew1": {
+                    "epsilons": 24707
+                },
+                "translateX": 11,
+                "translateY": -213
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65242
+                },
+                "scaleY": {
+                    "epsilons": 68423
+                },
+                "rotateSkew0": {
+                    "epsilons": -5769
+                },
+                "rotateSkew1": {
+                    "epsilons": 6051
+                },
+                "translateX": -71,
+                "translateY": -193
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69642
+                },
+                "scaleY": {
+                    "epsilons": 63532
+                },
+                "rotateSkew0": {
+                    "epsilons": 17398
+                },
+                "rotateSkew1": {
+                    "epsilons": -15872
+                },
+                "translateX": -136,
+                "translateY": -77
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63532
+                },
+                "scaleY": {
+                    "epsilons": 63532
+                },
+                "rotateSkew0": {
+                    "epsilons": 15872
+                },
+                "rotateSkew1": {
+                    "epsilons": -15872
+                },
+                "translateX": -151,
+                "translateY": 23
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 16384
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 16384
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 16384
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 71174
+                },
+                "scaleY": {
+                    "epsilons": 63813
+                },
+                "rotateSkew0": {
+                    "epsilons": -16187
+                },
+                "rotateSkew1": {
+                    "epsilons": 14513
+                },
+                "translateX": 126,
+                "translateY": -94
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 63106
+                },
+                "scaleY": {
+                    "epsilons": 70386
+                },
+                "rotateSkew0": {
+                    "epsilons": -17270
+                },
+                "rotateSkew1": {
+                    "epsilons": 19262
+                },
+                "translateX": 10,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65342
+                },
+                "scaleY": {
+                    "epsilons": 67891
+                },
+                "rotateSkew0": {
+                    "epsilons": -4617
+                },
+                "rotateSkew1": {
+                    "epsilons": 4797
+                },
+                "translateX": -75,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69221
+                },
+                "scaleY": {
+                    "epsilons": 64276
+                },
+                "rotateSkew0": {
+                    "epsilons": 13543
+                },
+                "rotateSkew1": {
+                    "epsilons": -12574
+                },
+                "translateX": -139,
+                "translateY": -80
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64276
+                },
+                "scaleY": {
+                    "epsilons": 64276
+                },
+                "rotateSkew0": {
+                    "epsilons": 12575
+                },
+                "rotateSkew1": {
+                    "epsilons": -12575
+                },
+                "translateX": -153,
+                "translateY": 20
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "ratio": 36864
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 2,
+            "ratio": 36864
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "ratio": 36864
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 69285
+                },
+                "scaleY": {
+                    "epsilons": 64917
+                },
+                "rotateSkew0": {
+                    "epsilons": -9145
+                },
+                "rotateSkew1": {
+                    "epsilons": 8567
+                },
+                "translateX": 118,
+                "translateY": -88
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 64698
+                },
+                "scaleY": {
+                    "epsilons": 69051
+                },
+                "rotateSkew0": {
+                    "epsilons": -10034
+                },
+                "rotateSkew1": {
+                    "epsilons": 10710
+                },
+                "translateX": 9,
+                "translateY": -214
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65465
+                },
+                "scaleY": {
+                    "epsilons": 66954
+                },
+                "rotateSkew0": {
+                    "epsilons": -2625
+                },
+                "rotateSkew1": {
+                    "epsilons": 2685
+                },
+                "translateX": -81,
+                "translateY": -196
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 68008
+                },
+                "scaleY": {
+                    "epsilons": 65087
+                },
+                "rotateSkew0": {
+                    "epsilons": 7771
+                },
+                "rotateSkew1": {
+                    "epsilons": -7436
+                },
+                "translateX": -141,
+                "translateY": -82
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65087
+                },
+                "scaleY": {
+                    "epsilons": 65087
+                },
+                "rotateSkew0": {
+                    "epsilons": 7437
+                },
+                "rotateSkew1": {
+                    "epsilons": -7437
+                },
+                "translateX": -157,
+                "translateY": 16
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 1
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 2
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 3
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 1168,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 4,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 109,
+                "translateY": -84
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 6,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 5,
+                "translateY": -215
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 8,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -89,
+                "translateY": -201
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 10,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -145,
+                "translateY": -83
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 12,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -162,
+                "translateY": 10
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "type": "DefineShape",
+    "id": 3150,
+    "bounds": {
+        "xMin": 0,
+        "xMax": 17000,
+        "yMin": 0,
+        "yMax": 6000
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 169,
+                        "g": 164,
+                        "b": 134,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 15700,
+                    "y": 2000
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 1300,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 4000
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -17000,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -4000
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 1300,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -2000
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 14400,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 2000
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "type": "DefineMorphShape",
+    "id": 1165,
+    "bounds": {
+        "xMin": -140,
+        "xMax": 159,
+        "yMin": -187,
+        "yMax": 201
+    },
+    "morphBounds": {
+        "xMin": -145,
+        "xMax": 144,
+        "yMin": -199,
+        "yMax": 199
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 153,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    },
+                    "morphColor": {
+                        "r": 153,
+                        "g": 0,
+                        "b": 0,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": [
+                {
+                    "width": 0,
+                    "morphWidth": 0,
+                    "startCap": 0,
+                    "endCap": 0,
+                    "join": {
+                        "type": 2
+                    },
+                    "noHScale": false,
+                    "noVScale": false,
+                    "noClose": false,
+                    "pixelHinting": false,
+                    "fill": {
+                        "type": 4,
+                        "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0,
+                            "a": 0
+                        },
+                        "morphColor": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0,
+                            "a": 0
+                        }
+                    }
+                }
+            ]
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": -139,
+                    "y": 28
+                },
+                "morphMoveTo": {
+                    "x": -144,
+                    "y": -11
+                },
+                "leftFill": 1,
+                "lineStyle": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 29,
+                    "y": -115
+                },
+                "morphDelta": {
+                    "x": 10,
+                    "y": -59
+                },
+                "controlDelta": {
+                    "x": 7,
+                    "y": -70
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 31,
+                    "y": -71
+                },
+                "morphDelta": {
+                    "x": 43,
+                    "y": -112
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 34,
+                    "y": -25
+                },
+                "morphDelta": {
+                    "x": 67,
+                    "y": -17
+                },
+                "controlDelta": {
+                    "x": 10,
+                    "y": -25
+                },
+                "morphControlDelta": {
+                    "x": 30,
+                    "y": -16
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 55,
+                    "y": -4
+                },
+                "morphDelta": {
+                    "x": 23,
+                    "y": 1
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 20,
+                    "y": 67
+                },
+                "morphDelta": {
+                    "x": 49,
+                    "y": 74
+                },
+                "controlDelta": {
+                    "x": 7,
+                    "y": 8
+                },
+                "morphControlDelta": {
+                    "x": 18,
+                    "y": 19
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 127,
+                    "y": 148
+                },
+                "morphDelta": {
+                    "x": 96,
+                    "y": 176
+                },
+                "controlDelta": {
+                    "x": 143,
+                    "y": 11
+                },
+                "morphControlDelta": {
+                    "x": 93,
+                    "y": 36
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -38,
+                    "y": 153
+                },
+                "morphDelta": {
+                    "x": -32,
+                    "y": 133
+                },
+                "controlDelta": {
+                    "x": -16,
+                    "y": 136
+                },
+                "morphControlDelta": {
+                    "x": -1,
+                    "y": 74
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -80,
+                    "y": 20
+                },
+                "morphDelta": {
+                    "x": -13,
+                    "y": 14
+                },
+                "controlDelta": {
+                    "x": -22,
+                    "y": 17
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -122,
+                    "y": -50
+                },
+                "morphDelta": {
+                    "x": -169,
+                    "y": -56
+                },
+                "controlDelta": {
+                    "x": -58,
+                    "y": 3
+                },
+                "morphControlDelta": {
+                    "x": -91,
+                    "y": -2
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -56,
+                    "y": -123
+                },
+                "morphDelta": {
+                    "x": -74,
+                    "y": -154
+                },
+                "controlDelta": {
+                    "x": -64,
+                    "y": -53
+                },
+                "morphControlDelta": {
+                    "x": -81,
+                    "y": -57
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "type": "DefineSprite",
+    "id": 1106,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1098,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 92,
+                "translateY": 637
+            },
+            "name": "upperLeg2"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 1105,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65533
+                },
+                "scaleY": {
+                    "epsilons": 65533
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 104,
+                "translateY": 1140
+            },
+            "name": "lowerLegOuter2"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

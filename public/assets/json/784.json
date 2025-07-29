@@ -1,0 +1,165 @@
+{
+    "type": "DefineShape",
+    "id": 784,
+    "bounds": {
+        "xMin": -180,
+        "xMax": 180,
+        "yMin": -180,
+        "yMax": 180
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    }
+                },
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 61,
+                        "g": 136,
+                        "b": 199,
+                        "a": 255
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 127,
+                    "y": -128
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 53,
+                    "y": 53
+                },
+                "delta": {
+                    "x": 53,
+                    "y": 128
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 0,
+                    "y": 74
+                },
+                "delta": {
+                    "x": -53,
+                    "y": 127
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -53,
+                    "y": 53
+                },
+                "delta": {
+                    "x": -127,
+                    "y": 53
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -75,
+                    "y": 0
+                },
+                "delta": {
+                    "x": -128,
+                    "y": -53
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": -52,
+                    "y": -53
+                },
+                "delta": {
+                    "x": -52,
+                    "y": -127
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 0,
+                    "y": -75
+                },
+                "delta": {
+                    "x": 52,
+                    "y": -128
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 53,
+                    "y": -52
+                },
+                "delta": {
+                    "x": 128,
+                    "y": -52
+                }
+            },
+            {
+                "type": 0,
+                "controlDelta": {
+                    "x": 74,
+                    "y": 0
+                },
+                "delta": {
+                    "x": 127,
+                    "y": 52
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": -40,
+                    "y": 90
+                },
+                "leftFill": 2
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 120,
+                    "y": -90
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -120,
+                    "y": -90
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": 180
+                }
+            }
+        ]
+    }
+}

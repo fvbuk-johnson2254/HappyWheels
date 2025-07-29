@@ -1,0 +1,33 @@
+{
+    "type": "DefineSprite",
+    "id": 3081,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 3080,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -1,
+                "translateY": 0
+            },
+            "name": "mc"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

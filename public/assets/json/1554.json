@@ -1,0 +1,56 @@
+{
+    "type": "DefineSprite",
+    "id": 1554,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 1546,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -13,
+                "translateY": 343
+            },
+            "name": "upperArm1"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 4,
+            "characterId": 1553,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65466
+                },
+                "scaleY": {
+                    "epsilons": 65463
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": -1
+                },
+                "translateX": -12,
+                "translateY": 794
+            },
+            "name": "lowerArmOuter1"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

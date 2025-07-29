@@ -1,0 +1,34 @@
+{
+    "type": "DefineDynamicText",
+    "id": 1075,
+    "bounds": {
+        "xMin": -40,
+        "xMax": 689,
+        "yMin": -40,
+        "yMax": 307
+    },
+    "wordWrap": false,
+    "multiline": false,
+    "password": false,
+    "readonly": true,
+    "autoSize": false,
+    "noSelect": true,
+    "border": false,
+    "wasStatic": false,
+    "html": true,
+    "useGlyphFont": true,
+    "fontId": 756,
+    "fontSize": 240,
+    "color": {
+        "r": 0,
+        "g": 204,
+        "b": 51,
+        "a": 255
+    },
+    "align": 1,
+    "marginLeft": 0,
+    "marginRight": 0,
+    "indent": 0,
+    "leading": 40,
+    "text": "<p align=\"right\"><font face=\"BankGothic Md BT\" size=\"12\" color=\"#00cc33\" letterSpacing=\"0.000000\" kerning=\"1\">0.00</font></p>"
+}

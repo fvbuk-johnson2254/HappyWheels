@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="186.5px" width="504.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 6.5)">
+    <use ffdec:characterId="2713" height="212.0" id="window1" transform="matrix(0.5, 0.0, 0.0, 0.5, 68.0, -2.0)" width="180.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="2719" height="208.0" id="window2" transform="matrix(0.5, 0.0, 0.0, 0.5, 160.0, -2.0)" width="125.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="2724" height="203.0" transform="matrix(0.5, 0.0, 0.0, 0.5, 224.0, -6.5)" width="128.95" xlink:href="#sprite4"/>
+    <use ffdec:characterId="2728" height="203.0" transform="matrix(0.5, 0.0, 0.0, 0.5, 276.0, -6.5)" width="128.95" xlink:href="#sprite7"/>
+    <use ffdec:characterId="2724" height="203.0" transform="matrix(0.5, 0.0, 0.0, 0.5, 388.0, -6.5)" width="128.95" xlink:href="#sprite4"/>
+    <use ffdec:characterId="2728" height="203.0" id="window5" transform="matrix(0.5, 0.0, 0.0, 0.5, 440.0, -6.5)" width="128.95" xlink:href="#sprite7"/>
+    <use ffdec:characterId="2729" height="180.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="500.0" xlink:href="#shape8"/>
+    <use ffdec:characterId="2731" height="360.0" id="sideShadow" transform="matrix(0.5, 0.0, 0.0, 0.5, 455.0, 0.0)" width="90.0" xlink:href="#sprite9"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 4.0)">
+      <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <path d="M172.0 0.0 L172.0 184.0 172.0 204.0 84.0 204.0 0.0 204.0 0.0 0.0 172.0 0.0" fill="#aeb4b8" fill-rule="evenodd" stroke="none"/>
+      </clipPath>
+      <g clip-path="url(#clipPath0)">
+        <use ffdec:characterId="2709" height="204.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="172.0" xlink:href="#shape0"/>
+        <filter id="filter0">
+          <feConvolveMatrix divisor="9.0" in="SourceGraphic" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult0"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult0" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult1"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult1" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult2"/>
+        </filter>
+        <use ffdec:characterId="2712" ffdec:characterName="game_fla.building2window1shadow_170" filter="url(#filter0)" height="212.0" id="frameShadow" transform="matrix(1.0, 0.0, 0.0, 1.0, -4.0, -4.0)" width="180.0" xlink:href="#sprite1"/>
+      </g>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 0.0)">
+      <use ffdec:characterId="2710" height="212.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -4.0, 0.0)" width="176.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 0.0)">
+      <path d="M172.0 0.0 L172.0 44.0 172.0 132.5 172.0 141.0 172.0 212.0 171.0 212.0 152.0 212.0 152.0 44.0 -4.0 44.0 -4.0 40.0 152.0 40.0 152.0 0.0 171.0 0.0 172.0 0.0" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 4.0)">
+      <clipPath id="clipPath1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <path d="M4.0 184.0 L4.0 180.0 4.0 0.0 122.0 0.0 122.0 204.0 70.25 204.0 68.15 204.0 66.1 204.0 4.0 204.0 4.0 184.0" fill="#dbdedf" fill-rule="evenodd" stroke="none"/>
+      </clipPath>
+      <g clip-path="url(#clipPath1)">
+        <use ffdec:characterId="2714" height="204.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 0.0)" width="118.0" xlink:href="#shape2"/>
+        <filter id="filter1">
+          <feConvolveMatrix divisor="9.0" in="SourceGraphic" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult3"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult3" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult4"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult4" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult5"/>
+        </filter>
+        <use ffdec:characterId="2717" ffdec:characterName="game_fla.building2window2shadow2_172" filter="url(#filter1)" height="208.0" id="frameShadow" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -4.0)" width="125.0" xlink:href="#sprite3"/>
+        <use ffdec:characterId="2718" height="204.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 118.0, 0.0)" width="4.0" xlink:href="#shape4"/>
+      </g>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 4.0)">
+      <use ffdec:characterId="2715" height="208.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -4.0, -4.0)" width="125.0" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 4.0)">
+      <path d="M121.0 -4.0 L121.0 204.0 110.0 204.0 110.0 200.0 56.0 200.0 56.0 204.0 54.0 204.0 52.0 204.0 52.0 200.0 29.1 200.0 17.1 200.0 -4.0 200.0 -4.0 196.0 17.1 196.0 29.1 196.0 110.0 196.0 110.0 16.0 21.6 16.0 -4.0 16.0 -4.0 12.0 21.6 12.0 110.0 12.0 110.0 7.5 110.0 -4.0 118.6 -4.0 121.0 -4.0" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, -118.0, 0.0)">
+      <path d="M122.0 0.0 L122.0 180.0 122.0 184.0 122.0 204.0 118.0 204.0 118.0 0.0 122.0 0.0" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 12.0, 13.0)">
+      <clipPath id="clipPath2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use ffdec:characterId="2720" height="180.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="100.0" xlink:href="#shape5"/>
+      </clipPath>
+      <g clip-path="url(#clipPath2)">
+        <use ffdec:characterId="2720" height="180.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="100.0" xlink:href="#shape5"/>
+        <filter id="filter2">
+          <feConvolveMatrix divisor="9.0" in="SourceGraphic" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult6"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult6" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult7"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult7" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult8"/>
+        </filter>
+        <use ffdec:characterId="2723" filter="url(#filter2)" height="203.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -12.0, -13.0)" width="128.95" xlink:href="#sprite6"/>
+      </g>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 180.0 L0.0 0.0 100.0 0.0 100.0 180.0 0.0 180.0" fill="#aeb4b8" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="2722" height="203.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="128.95" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M128.95 53.0 L102.0 53.0 102.0 203.0 92.0 203.0 92.0 53.0 0.0 53.0 0.0 0.0 128.95 0.0 128.95 53.0" fill="#797d80" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 12.0, 13.0)">
+      <clipPath id="clipPath3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use ffdec:characterId="2720" height="180.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="100.0" xlink:href="#shape5"/>
+      </clipPath>
+      <g clip-path="url(#clipPath3)">
+        <use ffdec:characterId="2720" height="180.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="100.0" xlink:href="#shape5"/>
+        <filter id="filter3">
+          <feConvolveMatrix divisor="9.0" in="SourceGraphic" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult9"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult9" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult10"/>
+          <feConvolveMatrix divisor="9.0" in="filterResult10" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult11"/>
+        </filter>
+        <use ffdec:characterId="2727" ffdec:characterName="game_fla.building2window5shadow_177" filter="url(#filter3)" height="203.0" id="frameShadow" transform="matrix(1.0, 0.0, 0.0, 1.0, -12.0, -13.0)" width="128.95" xlink:href="#sprite8"/>
+      </g>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="2725" height="203.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="128.95" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 53.0 L0.0 0.0 128.95 0.0 128.95 203.0 92.0 203.0 92.0 53.0 0.0 53.0" fill="#797d80" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M392.0 0.0 L394.0 0.0 394.0 90.0 444.0 90.0 444.0 0.0 446.0 0.0 446.0 90.0 496.0 90.0 496.0 0.0 500.0 0.0 500.0 92.0 496.0 92.0 446.0 92.0 446.0 102.0 496.0 102.0 500.0 102.0 500.0 178.0 500.0 180.0 496.0 180.0 446.0 180.0 444.0 180.0 394.0 180.0 392.0 180.0 334.0 180.0 332.0 180.0 282.0 180.0 280.0 180.0 226.0 180.0 226.0 178.0 280.0 178.0 280.0 104.0 226.0 104.0 226.0 102.0 280.0 102.0 280.0 92.0 226.0 92.0 226.0 0.0 230.0 0.0 230.0 90.0 280.0 90.0 280.0 0.0 282.0 0.0 282.0 90.0 332.0 90.0 332.0 0.0 334.0 0.0 334.0 92.0 332.0 92.0 282.0 92.0 282.0 102.0 332.0 102.0 334.0 102.0 392.0 102.0 394.0 102.0 444.0 102.0 444.0 92.0 392.0 92.0 392.0 0.0 M496.0 178.0 L496.0 104.0 446.0 104.0 446.0 178.0 496.0 178.0 M392.0 104.0 L334.0 104.0 334.0 178.0 392.0 178.0 392.0 104.0 M332.0 178.0 L332.0 104.0 282.0 104.0 282.0 178.0 332.0 178.0 M394.0 178.0 L444.0 178.0 444.0 104.0 394.0 104.0 394.0 178.0 M160.0 180.0 L114.0 180.0 112.0 180.0 66.0 180.0 33.0 180.0 32.0 180.0 31.55 180.0 29.55 180.0 0.0 180.0 0.0 178.0 32.0 178.0 32.0 104.0 0.0 104.0 0.0 102.0 0.0 92.0 0.0 0.0 1.5 0.0 2.0 0.0 2.0 90.0 4.5 90.0 5.0 90.0 7.0 90.0 64.0 90.0 64.0 0.0 66.0 0.0 70.0 0.0 70.0 90.0 156.0 90.0 156.0 0.0 160.0 0.0 160.0 104.0 114.0 104.0 114.0 178.0 160.0 178.0 160.0 180.0 M114.0 92.0 L114.0 102.0 156.0 102.0 156.0 92.0 114.0 92.0 M7.0 102.0 L32.0 102.0 32.0 92.0 7.0 92.0 5.0 92.0 4.5 92.0 2.0 92.0 2.0 102.0 4.5 102.0 5.0 102.0 7.0 102.0 M34.0 92.0 L33.0 92.0 33.0 102.0 34.0 102.0 64.0 102.0 64.0 92.0 34.0 92.0 M33.0 104.0 L33.0 178.0 112.0 178.0 112.0 104.0 66.0 104.0 33.0 104.0 M70.0 102.0 L112.0 102.0 112.0 92.0 70.0 92.0 70.0 102.0" fill="#474849" fill-rule="evenodd" stroke="none"/>
+      <path d="M392.0 0.0 L392.0 92.0 392.0 102.0 334.0 102.0 334.0 92.0 334.0 0.0 392.0 0.0" fill="#595959" fill-rule="evenodd" stroke="none"/>
+      <path d="M392.0 92.0 L444.0 92.0 444.0 102.0 394.0 102.0 392.0 102.0 392.0 92.0 M334.0 102.0 L332.0 102.0 282.0 102.0 282.0 92.0 332.0 92.0 334.0 92.0 334.0 102.0 M226.0 92.0 L280.0 92.0 280.0 102.0 226.0 102.0 226.0 92.0 M226.0 104.0 L280.0 104.0 280.0 178.0 226.0 178.0 226.0 104.0 M500.0 102.0 L496.0 102.0 446.0 102.0 446.0 92.0 496.0 92.0 500.0 92.0 500.0 102.0 M496.0 178.0 L446.0 178.0 446.0 104.0 496.0 104.0 496.0 178.0 M332.0 178.0 L282.0 178.0 282.0 104.0 332.0 104.0 332.0 178.0 M392.0 104.0 L392.0 178.0 334.0 178.0 334.0 104.0 392.0 104.0 M394.0 178.0 L394.0 104.0 444.0 104.0 444.0 178.0 394.0 178.0 M0.0 178.0 L0.0 104.0 32.0 104.0 32.0 178.0 0.0 178.0 M33.0 104.0 L66.0 104.0 112.0 104.0 112.0 178.0 33.0 178.0 33.0 104.0 M160.0 178.0 L114.0 178.0 114.0 104.0 160.0 104.0 160.0 178.0" fill="#4b4b4d" fill-rule="evenodd" stroke="none"/>
+      <path d="M221.0 90.0 L221.0 0.0 224.0 0.0 224.0 90.0 221.5 90.0 221.0 90.0 M192.0 92.0 L193.0 92.0 193.0 102.0 192.0 102.0 192.0 92.0 M221.0 92.0 L221.5 92.0 224.0 92.0 224.0 102.0 221.5 102.0 221.0 102.0 221.0 92.0" fill="#443f43" fill-rule="evenodd" stroke="none"/>
+      <path d="M160.0 104.0 L193.0 104.0 193.0 178.0 160.0 178.0 160.0 104.0 M226.0 104.0 L226.0 178.0 194.0 178.0 194.0 104.0 226.0 104.0" fill="#9f9fa0" fill-rule="evenodd" stroke="none"/>
+      <path d="M226.0 0.0 L226.0 92.0 226.0 102.0 226.0 104.0 194.0 104.0 194.0 178.0 226.0 178.0 226.0 180.0 194.0 180.0 193.0 180.0 160.0 180.0 160.0 178.0 193.0 178.0 193.0 104.0 160.0 104.0 160.0 0.0 162.0 0.0 162.0 90.0 196.05 90.0 197.05 90.0 221.0 90.0 221.5 90.0 224.0 90.0 224.0 0.0 226.0 0.0 M192.0 102.0 L193.0 102.0 193.0 92.0 192.0 92.0 162.0 92.0 162.0 102.0 192.0 102.0 M221.0 102.0 L221.5 102.0 224.0 102.0 224.0 92.0 221.5 92.0 221.0 92.0 194.0 92.0 194.0 102.0 221.0 102.0" fill="#938e8e" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.0 0.0 L5.0 0.0 5.0 90.0 4.5 90.0 2.0 90.0 2.0 0.0 M5.0 102.0 L4.5 102.0 2.0 102.0 2.0 92.0 4.5 92.0 5.0 92.0 5.0 102.0 M34.0 102.0 L33.0 102.0 33.0 92.0 34.0 92.0 34.0 102.0" fill="#3f4041" fill-rule="evenodd" stroke="none"/>
+      <path d="M5.0 0.0 L7.0 0.0 7.0 90.0 5.0 90.0 5.0 0.0 M7.0 102.0 L5.0 102.0 5.0 92.0 7.0 92.0 7.0 102.0" fill="#000000" fill-rule="evenodd" stroke="none"/>
+      <path d="M7.0 0.0 L64.0 0.0 64.0 90.0 7.0 90.0 7.0 0.0 M7.0 92.0 L32.0 92.0 32.0 102.0 7.0 102.0 7.0 92.0 M34.0 102.0 L34.0 92.0 64.0 92.0 64.0 102.0 34.0 102.0" fill="#aeb4b8" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.0 0.0 L1.5 0.0 66.0 0.0 66.0 92.0 66.0 102.0 66.0 104.0 66.0 180.0 33.0 180.0 32.0 180.0 31.55 180.0 29.55 180.0 0.0 180.0 0.0 104.0 0.0 102.0 0.0 92.0 0.0 0.0" fill="#000000" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="2730" height="360.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="90.0" xlink:href="#shape9"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M82.0 0.0 L90.0 0.0 90.0 184.0 90.0 204.0 90.0 208.0 90.0 360.0 45.0 360.0 43.65 360.0 43.0 360.0 40.25 360.0 0.0 360.0 0.0 208.0 0.0 204.0 0.0 184.0 0.0 180.0 82.0 180.0 82.0 0.0" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

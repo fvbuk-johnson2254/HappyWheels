@@ -1,0 +1,74 @@
+{
+    "type": "DefineText",
+    "id": 2999,
+    "bounds": {
+        "xMin": 9,
+        "xMax": 2471,
+        "yMin": 98,
+        "yMax": 596
+    },
+    "matrix": {
+        "scaleX": {
+            "epsilons": 65536
+        },
+        "scaleY": {
+            "epsilons": 65536
+        },
+        "rotateSkew0": {
+            "epsilons": 0
+        },
+        "rotateSkew1": {
+            "epsilons": 0
+        },
+        "translateX": 0,
+        "translateY": 0
+    },
+    "records": [
+        {
+            "fontId": 81,
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "offsetX": 0,
+            "offsetY": 480,
+            "fontSize": 500,
+            "entries": [
+                {
+                    "index": 48,
+                    "advance": 361
+                },
+                {
+                    "index": 76,
+                    "advance": 195
+                },
+                {
+                    "index": 65,
+                    "advance": 306
+                },
+                {
+                    "index": 89,
+                    "advance": 306
+                },
+                {
+                    "index": 0,
+                    "advance": 153
+                },
+                {
+                    "index": 46,
+                    "advance": 417
+                },
+                {
+                    "index": 79,
+                    "advance": 278
+                },
+                {
+                    "index": 87,
+                    "advance": 445
+                }
+            ]
+        }
+    ]
+}

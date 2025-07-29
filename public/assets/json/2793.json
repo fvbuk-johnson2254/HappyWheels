@@ -1,0 +1,102 @@
+{
+    "type": "DefineSprite",
+    "id": 2793,
+    "frameCount": 1,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 2768,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "brickTexture"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 92,
+            "characterId": 2776,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "roofTexture"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 129,
+            "characterId": 2790,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 0
+            },
+            "name": "windowTexture"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 145,
+            "characterId": 2792,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 65536
+                },
+                "scaleY": {
+                    "epsilons": 65536
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 2320,
+                "translateY": 1679
+            },
+            "name": "ledgeTexture"
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}

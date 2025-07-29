@@ -1,0 +1,90 @@
+{
+    "type": "DefineShape",
+    "id": 2895,
+    "bounds": {
+        "xMin": -540,
+        "xMax": 540,
+        "yMin": -3870,
+        "yMax": -3620
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [
+                {
+                    "type": 4,
+                    "color": {
+                        "r": 0,
+                        "g": 204,
+                        "b": 255,
+                        "a": 51
+                    }
+                }
+            ],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 40,
+                    "y": -3620
+                },
+                "rightFill": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 250,
+                    "y": -250
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 250,
+                    "y": 250
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -500,
+                    "y": 0
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": -540,
+                    "y": -3620
+                },
+                "leftFill": 1,
+                "rightFill": 0
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 500,
+                    "y": 0
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -250,
+                    "y": -250
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": -250,
+                    "y": 250
+                }
+            }
+        ]
+    }
+}

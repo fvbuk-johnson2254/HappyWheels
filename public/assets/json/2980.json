@@ -1,0 +1,316 @@
+{
+    "type": "DefineShape",
+    "id": 2980,
+    "bounds": {
+        "xMin": 3790,
+        "xMax": 12210,
+        "yMin": 10,
+        "yMax": 430
+    },
+    "edgeBounds": {
+        "xMin": 3800,
+        "xMax": 12200,
+        "yMin": 10,
+        "yMax": 420
+    },
+    "hasScalingStrokes": false,
+    "hasNonScalingStrokes": false,
+    "hasFillWinding": false,
+    "shape": {
+        "initialStyles": {
+            "fill": [],
+            "line": []
+        },
+        "records": [
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 0,
+                    "y": 0
+                },
+                "leftFill": 0,
+                "rightFill": 0,
+                "lineStyle": 0,
+                "newStyles": {
+                    "fill": [],
+                    "line": [
+                        {
+                            "width": 20,
+                            "fill": {
+                                "type": 4,
+                                "color": {
+                                    "r": 153,
+                                    "g": 153,
+                                    "b": 153,
+                                    "a": 255
+                                }
+                            },
+                            "pixelHinting": false,
+                            "noVScale": false,
+                            "noHScale": false,
+                            "noClose": false,
+                            "join": {
+                                "type": 2
+                            },
+                            "startCap": 0,
+                            "endCap": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 12200,
+                    "y": 100
+                },
+                "lineStyle": 1
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 12200,
+                    "y": 260
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 12200,
+                    "y": 420
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 10600,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 10600,
+                    "y": 260
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 10600,
+                    "y": 420
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 8600,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 8600,
+                    "y": 260
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 8600,
+                    "y": 420
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 6600,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 6600,
+                    "y": 260
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 6600,
+                    "y": 420
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 4240,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 4240,
+                    "y": 260
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 4240,
+                    "y": 420
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 3800,
+                    "y": 100
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 3800,
+                    "y": 260
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            },
+            {
+                "type": 1,
+                "moveTo": {
+                    "x": 3800,
+                    "y": 420
+                }
+            },
+            {
+                "type": 0,
+                "delta": {
+                    "x": 0,
+                    "y": -80
+                }
+            }
+        ]
+    }
+}

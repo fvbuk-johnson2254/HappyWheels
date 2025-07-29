@@ -1,0 +1,612 @@
+{
+    "type": "DefineSprite",
+    "id": 3067,
+    "frameCount": 12,
+    "tags": [
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 3,
+            "characterId": 3066,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 8
+                },
+                "scaleY": {
+                    "epsilons": 5
+                },
+                "rotateSkew0": {
+                    "epsilons": -14417
+                },
+                "rotateSkew1": {
+                    "epsilons": 17676
+                },
+                "translateX": 0,
+                "translateY": -647
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 128
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            },
+            "name": "blade"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 5,
+            "characterId": 3066,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 1962
+                },
+                "scaleY": {
+                    "epsilons": 42356
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -1,
+                "translateY": 217
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 128
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            },
+            "name": "handle"
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "RemoveObject",
+            "depth": 5
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": false,
+            "depth": 1,
+            "characterId": 3066,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2093
+                },
+                "scaleY": {
+                    "epsilons": 14709
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -1,
+                "translateY": 638
+            },
+            "colorTransform": {
+                "redMult": {
+                    "epsilons": 256
+                },
+                "greenMult": {
+                    "epsilons": 256
+                },
+                "blueMult": {
+                    "epsilons": 256
+                },
+                "alphaMult": {
+                    "epsilons": 128
+                },
+                "redAdd": 0,
+                "greenAdd": 0,
+                "blueAdd": 0,
+                "alphaAdd": 0
+            },
+            "ratio": 1,
+            "name": "handle"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 1990
+                },
+                "scaleY": {
+                    "epsilons": 41957
+                },
+                "rotateSkew0": {
+                    "epsilons": 104
+                },
+                "rotateSkew1": {
+                    "epsilons": -2199
+                },
+                "translateX": 23,
+                "translateY": -222
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2093
+                },
+                "scaleY": {
+                    "epsilons": 12607
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 652
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2816
+                },
+                "scaleY": {
+                    "epsilons": 42887
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": -191
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2943
+                },
+                "scaleY": {
+                    "epsilons": 8855
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 55,
+                "translateY": 204
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 6
+                },
+                "scaleY": {
+                    "epsilons": 6
+                },
+                "rotateSkew0": {
+                    "epsilons": -13445
+                },
+                "rotateSkew1": {
+                    "epsilons": 6413
+                },
+                "translateX": -3,
+                "translateY": -137
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2029
+                },
+                "scaleY": {
+                    "epsilons": 9116
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 17,
+                "translateY": 689
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 5238
+                },
+                "scaleY": {
+                    "epsilons": 45084
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 5,
+                "translateY": -141
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 3312
+                },
+                "scaleY": {
+                    "epsilons": 35280
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 48,
+                "translateY": 107
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 0
+                },
+                "scaleY": {
+                    "epsilons": 0
+                },
+                "rotateSkew0": {
+                    "epsilons": -6828
+                },
+                "rotateSkew1": {
+                    "epsilons": 10862
+                },
+                "translateX": -2,
+                "translateY": -535
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 3301
+                },
+                "scaleY": {
+                    "epsilons": 11783
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 5,
+                "translateY": 563
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 3933
+                },
+                "scaleY": {
+                    "epsilons": 32143
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -6,
+                "translateY": -107
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 1687
+                },
+                "scaleY": {
+                    "epsilons": 82748
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 403
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 3147
+                },
+                "scaleY": {
+                    "epsilons": 26476
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": -1263
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 4933
+                },
+                "scaleY": {
+                    "epsilons": 4816
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 27
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 5228
+                },
+                "scaleY": {
+                    "epsilons": 31002
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": -519
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2465
+                },
+                "scaleY": {
+                    "epsilons": 8477
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 1535
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2364
+                },
+                "scaleY": {
+                    "epsilons": 99748
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": -121
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2465
+                },
+                "scaleY": {
+                    "epsilons": 11564
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 446
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 1982
+                },
+                "scaleY": {
+                    "epsilons": 29110
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": -175
+            }
+        },
+        {
+            "type": "ShowFrame"
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 1,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 2465
+                },
+                "scaleY": {
+                    "epsilons": 72244
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": 0,
+                "translateY": 282
+            }
+        },
+        {
+            "type": "PlaceObject",
+            "isUpdate": true,
+            "depth": 3,
+            "matrix": {
+                "scaleX": {
+                    "epsilons": 11960
+                },
+                "scaleY": {
+                    "epsilons": 18110
+                },
+                "rotateSkew0": {
+                    "epsilons": 0
+                },
+                "rotateSkew1": {
+                    "epsilons": 0
+                },
+                "translateX": -5,
+                "translateY": -1095
+            }
+        },
+        {
+            "type": "ShowFrame"
+        }
+    ]
+}
