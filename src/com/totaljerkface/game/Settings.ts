@@ -3,6 +3,7 @@ import Session from "@/com/totaljerkface/game/Session";
 import { boundClass } from 'autobind-decorator';
 import Stage from "flash/display/Stage";
 import SharedObject from "flash/net/SharedObject";
+import Window from "./editor/ui/Window";
 
 @boundClass
 export default class Settings {
@@ -43,7 +44,8 @@ export default class Settings {
     public static levelPath = "levels/";
     public static imagePath = "game_images/";
     public static siteURL = "./";
-    public static pathPrefix = "http://localhost:8080/";
+    //@ts-ignore
+    public static pathPrefix = href;
     public static hideHUD: boolean = false;
     public static smoothing: boolean = true;
     public static characterIndex: number = 1;

@@ -15,6 +15,9 @@ import DisplayObjectContainer from "flash/display/DisplayObjectContainer";
 
 const FIXED_ONE = 65536;
 
+//@ts-ignore
+const href = window.location.href;
+
 async function loadBitmap(imgPath: string, container: DisplayObjectContainer): Promise<void> {
     try {
         const bitmapData = await BitmapData.loadFromFile(imgPath);
@@ -106,7 +109,6 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
                 let posX = tag.matrix.translate_x / 20;
                 let posY = tag.matrix.translate_y / 20;
 
-
                 item.x = posX;
                 item.y = posY;
             }
@@ -129,11 +131,11 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
                 }
             }
 
-            // Recursively process the child symbol
-            embedRecursive(root, names, tag.character_id, item, index + 1);
-
-            // Add to parent
+            // Add to current parent before recursing
             parent.addChild?.(item);
+
+            // Recursively process the child symbol with the current item as the new parent
+            embedRecursive(root, names, tag.character_id, item, index + 1);
         }
     }
 }
@@ -192,6 +194,7 @@ const XMLList = FlashXMLList;
 const Date = FlashDate;
 
 export const TopLevel = {
+    href,
     trace,
     root,
     stage,
