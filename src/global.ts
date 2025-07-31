@@ -110,6 +110,7 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
                 let posX = tag.matrix.translate_x / 20;
                 let posY = tag.matrix.translate_y / 20;
 
+
                 item.x = posX;
                 item.y = posY;
             }
@@ -132,11 +133,11 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
                 }
             }
 
-            // Add to current parent before recursing
-            parent.addChild?.(item);
-
-            // Recursively process the child symbol with the current item as the new parent
+            // Recursively process the child symbol
             embedRecursive(root, names, tag.character_id, item, index + 1);
+
+            // Add to parent
+            parent.addChild?.(item);
         }
     }
 }
