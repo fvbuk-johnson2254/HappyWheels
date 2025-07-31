@@ -79,8 +79,8 @@ function rgbaToDecimal(r, g, b, a) {
 
 const logEmbed = false;
 
-globalThis.embedRecursive = function embedRecursive(root, names, symbolId, parent = root, index = 0) {
-    const symbol = (assets as any).tags.find(sym => sym.id === symbolId);
+globalThis.embedRecursive = function embedRecursive(root: any, names: Record<string, any>, symbolId: number, parent = root, index = 0) {
+    const symbol = (assets as any).tags.find((sym: any) => sym.id === symbolId);
     if (!symbol || !symbol?.tags?.length) return;
 
     const entries = Object.entries(names);
@@ -91,7 +91,7 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
 
         // Check if this is a PlaceObject tag with a characterId
         if (tag.character_id) {
-            const childSymbol = (assets as any).tags.find(sym => sym.id === tag.character_id);
+            const childSymbol = (assets as any).tags.find((sym: any) => sym.id === tag.character_id);
             if (!childSymbol) continue;
 
             // Check if this is a named item from our names object
@@ -106,10 +106,9 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
 
             // Set position if it's a PlaceObject tag
             if (tag.matrix) {
-                // flash is special because it wants to use twip units (1/20 of a pixel) so we divide it here
+                // flash uses twip units (1/20 of a pixel)
                 let posX = tag.matrix.translate_x / 20;
                 let posY = tag.matrix.translate_y / 20;
-
 
                 item.x = posX;
                 item.y = posY;
@@ -121,10 +120,27 @@ globalThis.embedRecursive = function embedRecursive(root, names, symbolId, paren
                     `assets/out/${childSymbol.id}.png`,
                     item
                 );
+                
+
+                // Check if shape data exists and has records
+                if (childSymbol.shape?.records) {
+                    const type1Record = childSymbol.shape.records.find((record: any) => record.type === 1);
+                    if (type1Record?.moveTo) {
+                        const shape_x = type1Record.moveTo.x;
+                        const shape_y = type1Record.moveTo.y;
+                        item.x += shape_x / 20;
+                        item.y += shape_y / 20;
+                    }
+                }
             }
-            // Handle DefineDynamicText (added back)
+            // Handle DefineDynamicText
             else if (childSymbol.type === 'DefineDynamicText') {
-                item.textColor = rgbaToDecimal(childSymbol.color.r, childSymbol.color.g, childSymbol.color.b, childSymbol.color.a);
+                item.textColor = rgbaToDecimal(
+                    childSymbol.color.r, 
+                    childSymbol.color.g, 
+                    childSymbol.color.b, 
+                    childSymbol.color.a / 255
+                );
                 item.autoSize = true;
                 if (childSymbol.html) {
                     item.htmlText = childSymbol.text;
