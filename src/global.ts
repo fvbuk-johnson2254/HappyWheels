@@ -16,6 +16,7 @@ import DisplayObjectContainer from "flash/display/DisplayObjectContainer";
 const FIXED_ONE = 65536;
 
 //@ts-ignore
+
 const href = window.location.href;
 
 async function loadBitmap(imgPath: string, container: DisplayObjectContainer): Promise<void> {
