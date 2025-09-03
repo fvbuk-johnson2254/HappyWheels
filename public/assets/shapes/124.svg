@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" ns1:objectType="shape" height="47.3px" width="100.8px" shape-rendering="crispEdges">
+  <ns0:g transform="matrix(1.0, 0.0, 0.0, 1.0, 50.4, -7.5)">
+    <ns0:path d="M44.25 9.3 L44.3 10.5 44.4 44.55 Q44.4 46.05 43.7 46.8 42.95 47.55 41.3 47.55 L35.6 48.2 25.4 48.55 24.4 48.5 -24.4 48.5 -25.4 48.55 -35.6 48.2 -41.3 47.55 Q-42.95 47.55 -43.7 46.8 -44.4 46.05 -44.4 44.55 L-44.3 10.5 -44.25 9.3 -43.7 8.3 Q-42.95 7.5 -41.3 7.5 L-35.6 8.15 -25.4 8.55 -24.4 8.5 24.4 8.5 25.4 8.55 35.6 8.15 41.3 7.5 Q42.95 7.5 43.7 8.3 L44.25 9.3" fill="#cccccc" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M24.4 48.5 L25.4 48.55 35.6 48.2 41.3 47.55 Q42.95 47.55 43.7 46.8 44.4 46.05 44.4 44.55 L44.3 10.5 44.25 9.3 49.8 19.15 Q50.4 19.9 50.4 21.25 L50.4 54.8 24.4 54.8 24.4 48.5" fill="url(#gradient0)" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M-24.4 48.5 L24.4 48.5 24.4 54.8 -24.4 54.8 -24.4 48.5" fill="#999999" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M-44.25 9.3 L-44.3 10.5 -44.4 44.55 Q-44.4 46.05 -43.7 46.8 -42.95 47.55 -41.3 47.55 L-35.6 48.2 -25.4 48.55 -24.4 48.5 -24.4 54.8 -50.4 54.8 -50.4 21.25 Q-50.4 19.9 -49.8 19.15 L-44.25 9.3" fill="url(#gradient1)" fill-rule="evenodd" stroke="none" />
+  </ns0:g>
+  <ns0:defs>
+    <ns0:linearGradient gradientTransform="matrix(0.0129, -0.0043, 0.0047, 0.0142, 60.8, 77.6)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <ns0:stop offset="0.0" stop-color="#999999" />
+      <ns0:stop offset="0.17254901960784313" stop-color="#cccccc" />
+      <ns0:stop offset="0.21176470588235294" stop-color="#cccccc" />
+      <ns0:stop offset="0.3215686274509804" stop-color="#999999" />
+    </ns0:linearGradient>
+    <ns0:linearGradient gradientTransform="matrix(-0.0129, -0.0043, -0.0047, 0.0142, -60.8, 77.6)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <ns0:stop offset="0.0" stop-color="#999999" />
+      <ns0:stop offset="0.17254901960784313" stop-color="#cccccc" />
+      <ns0:stop offset="0.21176470588235294" stop-color="#cccccc" />
+      <ns0:stop offset="0.3215686274509804" stop-color="#999999" />
+    </ns0:linearGradient>
+  </ns0:defs>
+</ns0:svg>

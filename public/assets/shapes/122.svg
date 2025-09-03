@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" ns1:objectType="shape" height="54.8px" width="100.8px" shape-rendering="crispEdges">
+  <ns0:g transform="matrix(1.0, 0.0, 0.0, 1.0, 50.4, 0.0)">
+    <ns0:path d="M44.25 1.8 L49.8 11.65 Q50.4 12.4 50.4 13.75 L50.4 49.8 50.4 51.8 Q50.4 54.25 48.4 54.7 L47.4 54.8 24.4 54.8 24.4 41.0 25.4 41.05 35.6 40.7 41.3 40.05 Q42.95 40.05 43.7 39.3 44.4 38.55 44.4 37.05 L44.3 3.0 44.25 1.8" fill="url(#gradient0)" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M-44.25 1.8 L-43.7 0.8 Q-42.95 0.0 -41.3 0.0 L-35.6 0.65 -25.4 1.05 -24.4 1.0 24.4 1.0 25.4 1.05 35.6 0.65 41.3 0.0 Q42.95 0.0 43.7 0.8 L44.25 1.8 44.3 3.0 44.4 37.05 Q44.4 38.55 43.7 39.3 42.95 40.05 41.3 40.05 L35.6 40.7 25.4 41.05 24.4 41.0 -24.4 41.0 -25.4 41.05 -35.6 40.7 -41.3 40.05 Q-42.95 40.05 -43.7 39.3 -44.4 38.55 -44.4 37.05 L-44.3 3.0 -44.25 1.8" fill="#cccccc" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M24.4 54.8 L24.05 54.8 20.45 54.8 -13.75 54.8 -14.0 54.8 -17.35 54.8 -24.4 54.8 -24.4 41.0 24.4 41.0 24.4 54.8" fill="#999999" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M-24.4 54.8 L-47.4 54.8 -48.4 54.7 Q-50.4 54.25 -50.4 51.8 L-50.4 49.8 -50.4 13.75 Q-50.4 12.4 -49.8 11.65 L-44.25 1.8 -44.3 3.0 -44.4 37.05 Q-44.4 38.55 -43.7 39.3 -42.95 40.05 -41.3 40.05 L-35.6 40.7 -25.4 41.05 -24.4 41.0 -24.4 54.8" fill="url(#gradient1)" fill-rule="evenodd" stroke="none" />
+  </ns0:g>
+  <ns0:defs>
+    <ns0:linearGradient gradientTransform="matrix(0.0129, -0.0043, 0.0047, 0.0142, 60.8, 70.1)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <ns0:stop offset="0.0" stop-color="#999999" />
+      <ns0:stop offset="0.17254901960784313" stop-color="#cccccc" />
+      <ns0:stop offset="0.21176470588235294" stop-color="#cccccc" />
+      <ns0:stop offset="0.3215686274509804" stop-color="#999999" />
+    </ns0:linearGradient>
+    <ns0:linearGradient gradientTransform="matrix(-0.0129, -0.0043, -0.0047, 0.0142, -60.8, 70.1)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <ns0:stop offset="0.0" stop-color="#999999" />
+      <ns0:stop offset="0.17254901960784313" stop-color="#cccccc" />
+      <ns0:stop offset="0.21176470588235294" stop-color="#cccccc" />
+      <ns0:stop offset="0.3215686274509804" stop-color="#999999" />
+    </ns0:linearGradient>
+  </ns0:defs>
+</ns0:svg>

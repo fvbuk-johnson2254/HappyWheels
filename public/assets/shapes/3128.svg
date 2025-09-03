@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" ns1:objectType="shape" height="67.95px" width="38.0px" shape-rendering="crispEdges">
+  <ns0:g transform="matrix(1.0, 0.0, 0.0, 1.0, 4.0, 8.0)">
+    <ns0:path d="M30.0 0.0 L0.0 0.0 -4.0 -8.0 34.0 -8.0 30.0 0.0" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M0.0 0.0 L30.0 0.0 30.0 59.95 0.0 59.95 0.0 0.0" fill="#333333" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M30.0 0.0 L34.0 -8.0 34.0 59.95 30.0 59.95 30.0 0.0" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M-4.0 -8.0 L0.0 0.0 0.0 59.95 -4.0 59.95 -4.0 -8.0" fill="#ffffff" fill-opacity="0.2" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M28.0 30.0 L28.0 58.0 2.0 58.0 2.0 30.0 28.0 30.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M28.0 2.0 L28.0 29.0 2.0 29.0 2.0 2.0 28.0 2.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none" />
+    <ns0:path d="M2.0 30.0 L28.0 30.0 28.0 32.0 2.0 32.0 2.0 30.0" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none" />
+  </ns0:g>
+  <ns0:defs>
+    <ns0:linearGradient gradientTransform="matrix(0.0, -0.0159, 0.0171, 0.0, 15.0, 44.0)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <ns0:stop offset="0.0" stop-color="#2e3746" />
+      <ns0:stop offset="1.0" stop-color="#3e4a5b" />
+    </ns0:linearGradient>
+    <ns0:linearGradient gradientTransform="matrix(0.0, -0.0159, 0.0165, 0.0, 15.0, 15.5)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <ns0:stop offset="0.0" stop-color="#3a4556" />
+      <ns0:stop offset="1.0" stop-color="#5c6b81" />
+    </ns0:linearGradient>
+  </ns0:defs>
+</ns0:svg>
